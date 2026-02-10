@@ -7,33 +7,16 @@ __pycache__/
 .mypy_cache/
 .ruff_cache/
 
-# Virtualenv
+# Env / secrets
+.env
 .venv/
 venv/
-env/
 
-# Secrets
-.env
-
-# OS / Editor
-.DS_Store
-Thumbs.db
-.vscode/
-.idea/
-
-# Build artifacts
-dist/
-build/
-*.egg-info/
-
-# Data outputs / local storage
+# Local storage / indexes
 storage/
 *.parquet
 *.joblib
-*.sqlite3
 
-# Chroma directories (if you store locally)
-storage/chroma/
-
-# Logs
-*.log
+# OS
+.DS_Store
+Thumbs.db
