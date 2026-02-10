@@ -1,26 +1,28 @@
 from __future__ import annotations
 
 import os
+from typing import Any
+
 import pandas as pd
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.staticfiles import StaticFiles
-from dotenv import load_dotenv
 
 from app.config import get_settings
+from app.llm.embeddings import embed_query
+from app.rag.retriever import retrieve
+from app.rerank.batch_reranker import batch_score_candidates
 from app.schemas import (
-    IngestRequest,
-    MatchRequest,
-    MatchResponse,
     CandidateMatch,
     Citation,
     ExplainRequest,
     ExplainResponse,
+    IngestRequest,
+    MatchRequest,
+    MatchResponse,
 )
-from app.store import set_store, DataStore, get_store
-from app.llm.embeddings import embed_query
-from app.rag.retriever import retrieve
-from app.search.keyword import load_keyword_index, keyword_search
-from app.rerank.batch_reranker import batch_score_candidates
+from app.search.keyword import keyword_search, load_keyword_index
+from app.store import DataStore, get_store, set_store
 
 load_dotenv()
 
@@ -59,6 +61,7 @@ def ingest(req: IngestRequest):
         raise HTTPException(status_code=400, detail=f"candidates_path not found: {req.candidates_path}")
     if not os.path.exists(req.jobs_path):
         raise HTTPException(status_code=400, detail=f"jobs_path not found: {req.jobs_path}")
+
     store = load_dataframes(req.candidates_path, req.jobs_path)
     set_store(store)
     return {"ok": True, "candidates": len(store.candidates), "jobs": len(store.jobs)}
@@ -113,7 +116,7 @@ def match(req: MatchRequest):
     kw_ids = [cid for cid, _ in kw_hits if cid in allowed_ids]
 
     # 2) Vector retrieval (semantic). Fail-soft.
-    vec_chunks: list[dict] = []
+    vec_chunks: list[dict[str, Any]] = []
     vec_ids: list[str] = []
     try:
         q_emb = embed_query(job_text, settings=settings)
@@ -124,7 +127,7 @@ def match(req: MatchRequest):
             where=None,
         )
         for ch in vec_chunks:
-            cid = str(ch["metadata"].get("candidate_id"))
+            cid = str((ch.get("metadata") or {}).get("candidate_id"))
             if cid in allowed_ids:
                 vec_ids.append(cid)
     except Exception:
@@ -145,22 +148,28 @@ def match(req: MatchRequest):
         return MatchResponse(job_id=req.job_id, results=[])
 
     # Evidence snippets per candidate from vector chunks
-    chunks_by_cand: dict[str, list[dict]] = {}
+    chunks_by_cand: dict[str, list[dict[str, Any]]] = {}
     for ch in vec_chunks:
-        cid = str(ch["metadata"].get("candidate_id"))
+        cid = str((ch.get("metadata") or {}).get("candidate_id"))
         if cid in seen:
             chunks_by_cand.setdefault(cid, []).append(ch)
 
     # ---- Batch LLM scoring (FAST) ----
-    max_llm = min(10, len(merged))  # adjust to 10 for even faster
+    # This controls *cost + speed*. Lower = faster.
+    max_llm = min(10, len(merged))
 
-    batch_in: list[dict] = []
+    # Evidence controls prompt size; lower = faster.
+    max_evidence_per_cand = 3
+    max_excerpt_chars = 300
+
+    batch_in: list[dict[str, Any]] = []
     for cid in merged[:max_llm]:
         row = store.candidates[store.candidates["candidate_id"].astype(str) == cid]
         if row.empty:
             continue
         cand = row.iloc[0].to_dict()
-        evidence = chunks_by_cand.get(cid, [])[:6]
+
+        evidence = chunks_by_cand.get(cid, [])[:max_evidence_per_cand]
 
         batch_in.append(
             {
@@ -171,14 +180,17 @@ def match(req: MatchRequest):
                 "work_authorization": cand.get("work_authorization"),
                 "top_skills": cand.get("top_skills"),
                 "evidence_snippets": [
-                    {"chunk_id": e.get("chunk_id"), "excerpt": (e.get("text") or "")[:600]}
+                    {"chunk_id": e.get("chunk_id"), "excerpt": (e.get("text") or "")[:max_excerpt_chars]}
                     for e in evidence
                     if isinstance(e, dict)
                 ],
             }
         )
 
-    verdicts: list[dict] = []
+    # If we filtered down to nothing for batch scoring, return empty list
+    if not batch_in:
+        return MatchResponse(job_id=req.job_id, results=[])
+
     try:
         verdicts = batch_score_candidates(
             settings=settings,
@@ -188,31 +200,25 @@ def match(req: MatchRequest):
             candidates=batch_in,
         )
     except Exception as e:
-        # If batch scoring fails, return empty (UI will show nothing). Better than slow per-candidate.
-        # If you want, we can fallback to keyword-only scores here.
         raise HTTPException(status_code=500, detail=f"Batch scoring failed: {type(e).__name__}: {str(e)[:300]}")
 
-    vmap = {str(v.get("candidate_id")): v for v in verdicts if v.get("candidate_id")}
+    vmap = {str(v.get("candidate_id")): v for v in (verdicts or []) if isinstance(v, dict) and v.get("candidate_id")}
 
     scored: list[CandidateMatch] = []
     for item in batch_in:
-        cid = item["candidate_id"]
+        cid = str(item.get("candidate_id"))
         row = store.candidates[store.candidates["candidate_id"].astype(str) == cid]
         if row.empty:
             continue
         cand = row.iloc[0].to_dict()
 
-        v = vmap.get(cid, {})
+        v = vmap.get(cid, {}) or {}
 
         citations = v.get("citations", []) or []
         # Guard: if citations missing but evidence exists, add first evidence
         if (not citations) and item.get("evidence_snippets"):
-            citations = [
-                {
-                    "chunk_id": item["evidence_snippets"][0].get("chunk_id"),
-                    "excerpt": item["evidence_snippets"][0].get("excerpt"),
-                }
-            ]
+            first = item["evidence_snippets"][0]
+            citations = [{"chunk_id": first.get("chunk_id"), "excerpt": first.get("excerpt")}]
 
         scored.append(
             CandidateMatch(
@@ -250,8 +256,8 @@ def explain(req: ExplainRequest):
         raise HTTPException(status_code=404, detail=f"candidate_id not found: {req.candidate_id}")
     cand = cand_row.iloc[0].to_dict()
 
-    # Pull evidence chunks for this candidate
-    vec_chunks: list[dict] = []
+    # Pull evidence chunks for this candidate (fail-soft)
+    vec_chunks: list[dict[str, Any]] = []
     try:
         q_emb = embed_query(job_text, settings=settings)
         vec_chunks = retrieve(
@@ -263,7 +269,6 @@ def explain(req: ExplainRequest):
     except Exception:
         vec_chunks = []
 
-    # Use the batch scorer with a single candidate for consistent behavior
     one = [
         {
             "candidate_id": str(req.candidate_id),
@@ -291,11 +296,7 @@ def explain(req: ExplainRequest):
 
     # Guard citations
     if (not verdict.get("citations")) and one[0].get("evidence_snippets"):
-        verdict["citations"] = [
-            {
-                "chunk_id": one[0]["evidence_snippets"][0].get("chunk_id"),
-                "excerpt": one[0]["evidence_snippets"][0].get("excerpt"),
-            }
-        ]
+        first = one[0]["evidence_snippets"][0]
+        verdict["citations"] = [{"chunk_id": first.get("chunk_id"), "excerpt": first.get("excerpt")}]
 
     return ExplainResponse(job_id=req.job_id, candidate_id=req.candidate_id, explanation=verdict)
