@@ -1,0 +1,213 @@
+[
+  {
+    "job_id": "JOB-DA-001",
+    "title": "Senior Data Analyst (Product Analytics)",
+    "family": "data_analyst",
+    "location": "Remote",
+    "level": "Senior",
+    "must_have_skills": [
+      "SQL",
+      "Statistics",
+      "A/B testing",
+      "Dashboarding"
+    ],
+    "nice_to_have_skills": [
+      "Python",
+      "dbt",
+      "Snowflake"
+    ],
+    "min_years_experience": 5,
+    "work_auth_required": "Any",
+    "description": "Own product analytics for experimentation, funnel analysis, and KPI dashboards. Partner with PMs to drive insights and measurement."
+  },
+  {
+    "job_id": "JOB-GENAI-001",
+    "title": "LLM Engineer (RAG + Agents)",
+    "family": "genai",
+    "location": "Austin, TX",
+    "level": "Senior",
+    "must_have_skills": [
+      "Python",
+      "RAG",
+      "Vector databases",
+      "FastAPI",
+      "Evaluation"
+    ],
+    "nice_to_have_skills": [
+      "Vertex AI",
+      "LangGraph",
+      "Kubernetes"
+    ],
+    "min_years_experience": 4,
+    "work_auth_required": "No Sponsorship Needed",
+    "description": "Build and deploy LLM-powered applications with RAG and agent workflows. Focus on grounding, citations, evals, and production hardening."
+  },
+  {
+    "job_id": "JOB-ML-001",
+    "title": "ML Engineer (Recommendations)",
+    "family": "ml_engineer",
+    "location": "Seattle, WA",
+    "level": "Mid",
+    "must_have_skills": [
+      "Python",
+      "scikit-learn",
+      "Model deployment",
+      "Docker"
+    ],
+    "nice_to_have_skills": [
+      "Kubernetes",
+      "AWS",
+      "MLflow"
+    ],
+    "min_years_experience": 3,
+    "work_auth_required": "Any",
+    "description": "Develop recommendation models, deploy to production, and monitor performance. Collaborate with data engineering and product."
+  },
+  {
+    "job_id": "JOB-BE-001",
+    "title": "Backend Engineer (API Platform)",
+    "family": "backend",
+    "location": "Chicago, IL",
+    "level": "Mid",
+    "must_have_skills": [
+      "REST APIs",
+      "PostgreSQL",
+      "Docker",
+      "CI/CD"
+    ],
+    "nice_to_have_skills": [
+      "Kafka",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "min_years_experience": 3,
+    "work_auth_required": "Any",
+    "description": "Build reliable APIs and backend services. Improve scalability, observability, and developer experience."
+  },
+  {
+    "job_id": "JOB-FE-001",
+    "title": "Frontend Engineer (React)",
+    "family": "frontend",
+    "location": "Remote",
+    "level": "Mid",
+    "must_have_skills": [
+      "React",
+      "TypeScript",
+      "HTML",
+      "CSS"
+    ],
+    "nice_to_have_skills": [
+      "Next.js",
+      "Accessibility",
+      "Cypress"
+    ],
+    "min_years_experience": 3,
+    "work_auth_required": "Any",
+    "description": "Build a modern web UI, improve performance and accessibility, and collaborate closely with design."
+  },
+  {
+    "job_id": "JOB-GENAI-002",
+    "title": "AI Engineer (Customer Support Copilot)",
+    "family": "genai",
+    "location": "Dallas, TX",
+    "level": "Mid",
+    "must_have_skills": [
+      "Python",
+      "LLMs",
+      "Prompt engineering",
+      "RAG"
+    ],
+    "nice_to_have_skills": [
+      "Azure OpenAI",
+      "Chroma",
+      "Evaluation"
+    ],
+    "min_years_experience": 2,
+    "work_auth_required": "Any",
+    "description": "Ship an internal copilot for support agents. Prioritize grounding, safety, and measurable quality improvements."
+  },
+  {
+    "job_id": "JOB-DA-002",
+    "title": "Analytics Engineer (dbt + Snowflake)",
+    "family": "data_analyst",
+    "location": "New York, NY",
+    "level": "Mid",
+    "must_have_skills": [
+      "SQL",
+      "dbt",
+      "Data modeling",
+      "Snowflake"
+    ],
+    "nice_to_have_skills": [
+      "Airflow",
+      "Looker"
+    ],
+    "min_years_experience": 3,
+    "work_auth_required": "Any",
+    "description": "Model analytics tables, build reliable transformations in dbt, and publish metrics for stakeholders."
+  },
+  {
+    "job_id": "JOB-ML-002",
+    "title": "MLOps Engineer (Kubernetes + MLflow)",
+    "family": "ml_engineer",
+    "location": "San Francisco, CA",
+    "level": "Senior",
+    "must_have_skills": [
+      "Docker",
+      "Kubernetes",
+      "CI/CD",
+      "MLflow",
+      "Monitoring"
+    ],
+    "nice_to_have_skills": [
+      "Terraform",
+      "SageMaker",
+      "Vertex AI"
+    ],
+    "min_years_experience": 5,
+    "work_auth_required": "Any",
+    "description": "Build ML platform tooling for training/deployments, experiment tracking, and production monitoring."
+  },
+  {
+    "job_id": "JOB-BE-002",
+    "title": "Software Engineer (Event Streaming)",
+    "family": "backend",
+    "location": "Atlanta, GA",
+    "level": "Senior",
+    "must_have_skills": [
+      "Kafka",
+      "Microservices",
+      "Docker",
+      "PostgreSQL"
+    ],
+    "nice_to_have_skills": [
+      "gRPC",
+      "Kubernetes",
+      "Terraform"
+    ],
+    "min_years_experience": 6,
+    "work_auth_required": "Any",
+    "description": "Develop event-driven services, optimize throughput, and maintain high reliability."
+  },
+  {
+    "job_id": "JOB-FE-002",
+    "title": "UI Engineer (Next.js)",
+    "family": "frontend",
+    "location": "San Francisco, CA",
+    "level": "Senior",
+    "must_have_skills": [
+      "Next.js",
+      "React",
+      "TypeScript",
+      "Accessibility"
+    ],
+    "nice_to_have_skills": [
+      "Figma",
+      "Cypress",
+      "Tailwind"
+    ],
+    "min_years_experience": 5,
+    "work_auth_required": "Any",
+    "description": "Lead UI architecture, ship accessible experiences, and mentor engineers."
+  }
+]

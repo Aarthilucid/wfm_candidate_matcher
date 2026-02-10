@@ -1,0 +1,752 @@
+{"application_id": "APP-CAND-1000-JOB-FE-002", "candidate_id": "CAND-1000", "job_id": "JOB-FE-002", "applied_date": "2025-12-22", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1000-JOB-BE-001", "candidate_id": "CAND-1000", "job_id": "JOB-BE-001", "applied_date": "2025-11-01", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1000-JOB-FE-001", "candidate_id": "CAND-1000", "job_id": "JOB-FE-001", "applied_date": "2026-02-01", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1001-JOB-ML-001", "candidate_id": "CAND-1001", "job_id": "JOB-ML-001", "applied_date": "2026-01-03", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1001-JOB-ML-002", "candidate_id": "CAND-1001", "job_id": "JOB-ML-002", "applied_date": "2025-11-18", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1002-JOB-DA-001", "candidate_id": "CAND-1002", "job_id": "JOB-DA-001", "applied_date": "2025-12-29", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1003-JOB-BE-001", "candidate_id": "CAND-1003", "job_id": "JOB-BE-001", "applied_date": "2025-11-28", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1003-JOB-GENAI-001", "candidate_id": "CAND-1003", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-20", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1003-JOB-ML-001", "candidate_id": "CAND-1003", "job_id": "JOB-ML-001", "applied_date": "2025-12-17", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1003-JOB-FE-001", "candidate_id": "CAND-1003", "job_id": "JOB-FE-001", "applied_date": "2025-11-26", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1003-JOB-ML-002", "candidate_id": "CAND-1003", "job_id": "JOB-ML-002", "applied_date": "2025-11-23", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1004-JOB-BE-002", "candidate_id": "CAND-1004", "job_id": "JOB-BE-002", "applied_date": "2025-11-29", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1004-JOB-FE-002", "candidate_id": "CAND-1004", "job_id": "JOB-FE-002", "applied_date": "2026-01-01", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1004-JOB-GENAI-001", "candidate_id": "CAND-1004", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-16", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1004-JOB-FE-001", "candidate_id": "CAND-1004", "job_id": "JOB-FE-001", "applied_date": "2025-12-09", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1005-JOB-BE-002", "candidate_id": "CAND-1005", "job_id": "JOB-BE-002", "applied_date": "2026-02-10", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1005-JOB-FE-002", "candidate_id": "CAND-1005", "job_id": "JOB-FE-002", "applied_date": "2025-10-20", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1005-JOB-DA-002", "candidate_id": "CAND-1005", "job_id": "JOB-DA-002", "applied_date": "2026-02-04", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1005-JOB-FE-001", "candidate_id": "CAND-1005", "job_id": "JOB-FE-001", "applied_date": "2026-01-08", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1006-JOB-FE-002", "candidate_id": "CAND-1006", "job_id": "JOB-FE-002", "applied_date": "2025-11-04", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1006-JOB-DA-002", "candidate_id": "CAND-1006", "job_id": "JOB-DA-002", "applied_date": "2026-01-30", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1006-JOB-GENAI-002", "candidate_id": "CAND-1006", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-11", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1006-JOB-FE-001", "candidate_id": "CAND-1006", "job_id": "JOB-FE-001", "applied_date": "2025-12-01", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1007-JOB-GENAI-001", "candidate_id": "CAND-1007", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-09", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1008-JOB-GENAI-001", "candidate_id": "CAND-1008", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-13", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1009-JOB-ML-001", "candidate_id": "CAND-1009", "job_id": "JOB-ML-001", "applied_date": "2025-10-25", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1009-JOB-DA-001", "candidate_id": "CAND-1009", "job_id": "JOB-DA-001", "applied_date": "2025-10-16", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1009-JOB-DA-002", "candidate_id": "CAND-1009", "job_id": "JOB-DA-002", "applied_date": "2025-10-16", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1009-JOB-FE-001", "candidate_id": "CAND-1009", "job_id": "JOB-FE-001", "applied_date": "2025-12-15", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1010-JOB-FE-002", "candidate_id": "CAND-1010", "job_id": "JOB-FE-002", "applied_date": "2025-11-20", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1010-JOB-ML-002", "candidate_id": "CAND-1010", "job_id": "JOB-ML-002", "applied_date": "2025-12-13", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1011-JOB-ML-001", "candidate_id": "CAND-1011", "job_id": "JOB-ML-001", "applied_date": "2026-01-07", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1011-JOB-BE-001", "candidate_id": "CAND-1011", "job_id": "JOB-BE-001", "applied_date": "2025-11-18", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1012-JOB-DA-002", "candidate_id": "CAND-1012", "job_id": "JOB-DA-002", "applied_date": "2026-01-17", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1012-JOB-BE-001", "candidate_id": "CAND-1012", "job_id": "JOB-BE-001", "applied_date": "2025-12-21", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1012-JOB-BE-002", "candidate_id": "CAND-1012", "job_id": "JOB-BE-002", "applied_date": "2026-01-06", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1013-JOB-ML-001", "candidate_id": "CAND-1013", "job_id": "JOB-ML-001", "applied_date": "2025-11-21", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1013-JOB-FE-002", "candidate_id": "CAND-1013", "job_id": "JOB-FE-002", "applied_date": "2026-01-05", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1013-JOB-GENAI-002", "candidate_id": "CAND-1013", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-18", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1013-JOB-ML-002", "candidate_id": "CAND-1013", "job_id": "JOB-ML-002", "applied_date": "2025-12-11", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1014-JOB-BE-001", "candidate_id": "CAND-1014", "job_id": "JOB-BE-001", "applied_date": "2026-01-18", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1014-JOB-BE-002", "candidate_id": "CAND-1014", "job_id": "JOB-BE-002", "applied_date": "2026-01-23", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1015-JOB-ML-001", "candidate_id": "CAND-1015", "job_id": "JOB-ML-001", "applied_date": "2026-01-27", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1015-JOB-GENAI-002", "candidate_id": "CAND-1015", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-30", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1015-JOB-ML-002", "candidate_id": "CAND-1015", "job_id": "JOB-ML-002", "applied_date": "2025-12-05", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1015-JOB-GENAI-001", "candidate_id": "CAND-1015", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-06", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1016-JOB-ML-002", "candidate_id": "CAND-1016", "job_id": "JOB-ML-002", "applied_date": "2025-10-31", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1017-JOB-ML-001", "candidate_id": "CAND-1017", "job_id": "JOB-ML-001", "applied_date": "2025-12-27", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1017-JOB-BE-002", "candidate_id": "CAND-1017", "job_id": "JOB-BE-002", "applied_date": "2026-01-10", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1017-JOB-FE-002", "candidate_id": "CAND-1017", "job_id": "JOB-FE-002", "applied_date": "2025-12-26", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1017-JOB-FE-001", "candidate_id": "CAND-1017", "job_id": "JOB-FE-001", "applied_date": "2026-01-17", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1018-JOB-DA-001", "candidate_id": "CAND-1018", "job_id": "JOB-DA-001", "applied_date": "2025-11-28", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1018-JOB-DA-002", "candidate_id": "CAND-1018", "job_id": "JOB-DA-002", "applied_date": "2025-10-27", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1018-JOB-BE-002", "candidate_id": "CAND-1018", "job_id": "JOB-BE-002", "applied_date": "2025-12-17", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1019-JOB-ML-001", "candidate_id": "CAND-1019", "job_id": "JOB-ML-001", "applied_date": "2025-11-17", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1019-JOB-ML-002", "candidate_id": "CAND-1019", "job_id": "JOB-ML-002", "applied_date": "2026-01-30", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1019-JOB-BE-002", "candidate_id": "CAND-1019", "job_id": "JOB-BE-002", "applied_date": "2025-11-09", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1020-JOB-DA-002", "candidate_id": "CAND-1020", "job_id": "JOB-DA-002", "applied_date": "2026-02-03", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1020-JOB-ML-001", "candidate_id": "CAND-1020", "job_id": "JOB-ML-001", "applied_date": "2025-12-30", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1020-JOB-FE-002", "candidate_id": "CAND-1020", "job_id": "JOB-FE-002", "applied_date": "2025-10-28", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1020-JOB-GENAI-001", "candidate_id": "CAND-1020", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-11", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1020-JOB-FE-001", "candidate_id": "CAND-1020", "job_id": "JOB-FE-001", "applied_date": "2026-01-26", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1021-JOB-GENAI-001", "candidate_id": "CAND-1021", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-06", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1022-JOB-FE-002", "candidate_id": "CAND-1022", "job_id": "JOB-FE-002", "applied_date": "2025-10-26", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1022-JOB-DA-001", "candidate_id": "CAND-1022", "job_id": "JOB-DA-001", "applied_date": "2025-10-28", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1022-JOB-DA-002", "candidate_id": "CAND-1022", "job_id": "JOB-DA-002", "applied_date": "2025-10-24", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1022-JOB-BE-001", "candidate_id": "CAND-1022", "job_id": "JOB-BE-001", "applied_date": "2025-12-17", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1023-JOB-DA-001", "candidate_id": "CAND-1023", "job_id": "JOB-DA-001", "applied_date": "2026-01-20", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1023-JOB-BE-001", "candidate_id": "CAND-1023", "job_id": "JOB-BE-001", "applied_date": "2026-01-16", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1024-JOB-FE-002", "candidate_id": "CAND-1024", "job_id": "JOB-FE-002", "applied_date": "2025-10-21", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1024-JOB-ML-002", "candidate_id": "CAND-1024", "job_id": "JOB-ML-002", "applied_date": "2026-02-09", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1024-JOB-FE-001", "candidate_id": "CAND-1024", "job_id": "JOB-FE-001", "applied_date": "2025-12-08", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1025-JOB-DA-001", "candidate_id": "CAND-1025", "job_id": "JOB-DA-001", "applied_date": "2025-10-16", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1025-JOB-DA-002", "candidate_id": "CAND-1025", "job_id": "JOB-DA-002", "applied_date": "2025-12-12", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1025-JOB-GENAI-001", "candidate_id": "CAND-1025", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-29", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1026-JOB-ML-001", "candidate_id": "CAND-1026", "job_id": "JOB-ML-001", "applied_date": "2026-01-28", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1026-JOB-ML-002", "candidate_id": "CAND-1026", "job_id": "JOB-ML-002", "applied_date": "2025-11-06", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1026-JOB-BE-001", "candidate_id": "CAND-1026", "job_id": "JOB-BE-001", "applied_date": "2026-02-03", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1027-JOB-BE-001", "candidate_id": "CAND-1027", "job_id": "JOB-BE-001", "applied_date": "2025-10-25", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1028-JOB-ML-001", "candidate_id": "CAND-1028", "job_id": "JOB-ML-001", "applied_date": "2025-12-24", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1028-JOB-GENAI-002", "candidate_id": "CAND-1028", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-01", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1028-JOB-ML-002", "candidate_id": "CAND-1028", "job_id": "JOB-ML-002", "applied_date": "2026-01-09", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1029-JOB-FE-002", "candidate_id": "CAND-1029", "job_id": "JOB-FE-002", "applied_date": "2025-12-03", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1029-JOB-GENAI-002", "candidate_id": "CAND-1029", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-18", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1029-JOB-GENAI-001", "candidate_id": "CAND-1029", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-17", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1030-JOB-ML-001", "candidate_id": "CAND-1030", "job_id": "JOB-ML-001", "applied_date": "2025-12-23", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1030-JOB-FE-002", "candidate_id": "CAND-1030", "job_id": "JOB-FE-002", "applied_date": "2025-10-22", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1030-JOB-ML-002", "candidate_id": "CAND-1030", "job_id": "JOB-ML-002", "applied_date": "2026-02-01", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1030-JOB-FE-001", "candidate_id": "CAND-1030", "job_id": "JOB-FE-001", "applied_date": "2026-01-11", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1031-JOB-BE-001", "candidate_id": "CAND-1031", "job_id": "JOB-BE-001", "applied_date": "2025-10-20", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1031-JOB-DA-001", "candidate_id": "CAND-1031", "job_id": "JOB-DA-001", "applied_date": "2026-01-25", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1031-JOB-FE-002", "candidate_id": "CAND-1031", "job_id": "JOB-FE-002", "applied_date": "2026-01-28", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1031-JOB-GENAI-001", "candidate_id": "CAND-1031", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-08", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1031-JOB-BE-002", "candidate_id": "CAND-1031", "job_id": "JOB-BE-002", "applied_date": "2025-12-17", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1032-JOB-DA-001", "candidate_id": "CAND-1032", "job_id": "JOB-DA-001", "applied_date": "2025-12-04", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1032-JOB-BE-001", "candidate_id": "CAND-1032", "job_id": "JOB-BE-001", "applied_date": "2025-11-15", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1033-JOB-DA-001", "candidate_id": "CAND-1033", "job_id": "JOB-DA-001", "applied_date": "2025-10-29", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1033-JOB-BE-001", "candidate_id": "CAND-1033", "job_id": "JOB-BE-001", "applied_date": "2026-02-03", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1033-JOB-DA-002", "candidate_id": "CAND-1033", "job_id": "JOB-DA-002", "applied_date": "2026-01-18", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1033-JOB-BE-002", "candidate_id": "CAND-1033", "job_id": "JOB-BE-002", "applied_date": "2026-01-01", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1034-JOB-FE-002", "candidate_id": "CAND-1034", "job_id": "JOB-FE-002", "applied_date": "2025-11-18", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1034-JOB-FE-001", "candidate_id": "CAND-1034", "job_id": "JOB-FE-001", "applied_date": "2026-01-09", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1035-JOB-GENAI-002", "candidate_id": "CAND-1035", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-05", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1035-JOB-GENAI-001", "candidate_id": "CAND-1035", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-13", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1035-JOB-BE-001", "candidate_id": "CAND-1035", "job_id": "JOB-BE-001", "applied_date": "2026-01-28", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1035-JOB-BE-002", "candidate_id": "CAND-1035", "job_id": "JOB-BE-002", "applied_date": "2025-10-18", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1036-JOB-BE-002", "candidate_id": "CAND-1036", "job_id": "JOB-BE-002", "applied_date": "2025-12-09", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1036-JOB-DA-001", "candidate_id": "CAND-1036", "job_id": "JOB-DA-001", "applied_date": "2026-01-06", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1036-JOB-GENAI-002", "candidate_id": "CAND-1036", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-03", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1036-JOB-GENAI-001", "candidate_id": "CAND-1036", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-06", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1037-JOB-FE-002", "candidate_id": "CAND-1037", "job_id": "JOB-FE-002", "applied_date": "2025-11-06", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1037-JOB-DA-002", "candidate_id": "CAND-1037", "job_id": "JOB-DA-002", "applied_date": "2025-10-30", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1037-JOB-GENAI-002", "candidate_id": "CAND-1037", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-06", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1037-JOB-GENAI-001", "candidate_id": "CAND-1037", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-10", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1038-JOB-ML-001", "candidate_id": "CAND-1038", "job_id": "JOB-ML-001", "applied_date": "2025-12-29", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1038-JOB-FE-001", "candidate_id": "CAND-1038", "job_id": "JOB-FE-001", "applied_date": "2026-02-06", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1038-JOB-ML-002", "candidate_id": "CAND-1038", "job_id": "JOB-ML-002", "applied_date": "2025-12-26", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1038-JOB-BE-002", "candidate_id": "CAND-1038", "job_id": "JOB-BE-002", "applied_date": "2025-11-02", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1039-JOB-ML-002", "candidate_id": "CAND-1039", "job_id": "JOB-ML-002", "applied_date": "2025-11-30", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1040-JOB-GENAI-002", "candidate_id": "CAND-1040", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-27", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1040-JOB-GENAI-001", "candidate_id": "CAND-1040", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-14", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1041-JOB-DA-001", "candidate_id": "CAND-1041", "job_id": "JOB-DA-001", "applied_date": "2026-02-07", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1041-JOB-GENAI-002", "candidate_id": "CAND-1041", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-02", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1041-JOB-ML-001", "candidate_id": "CAND-1041", "job_id": "JOB-ML-001", "applied_date": "2025-12-20", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1041-JOB-GENAI-001", "candidate_id": "CAND-1041", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-13", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1041-JOB-ML-002", "candidate_id": "CAND-1041", "job_id": "JOB-ML-002", "applied_date": "2026-02-07", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1042-JOB-GENAI-002", "candidate_id": "CAND-1042", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-14", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1043-JOB-ML-001", "candidate_id": "CAND-1043", "job_id": "JOB-ML-001", "applied_date": "2025-11-25", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1044-JOB-DA-002", "candidate_id": "CAND-1044", "job_id": "JOB-DA-002", "applied_date": "2025-11-30", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1044-JOB-BE-001", "candidate_id": "CAND-1044", "job_id": "JOB-BE-001", "applied_date": "2025-11-22", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1044-JOB-DA-001", "candidate_id": "CAND-1044", "job_id": "JOB-DA-001", "applied_date": "2025-12-04", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1044-JOB-ML-001", "candidate_id": "CAND-1044", "job_id": "JOB-ML-001", "applied_date": "2025-10-31", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1044-JOB-ML-002", "candidate_id": "CAND-1044", "job_id": "JOB-ML-002", "applied_date": "2025-12-12", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1045-JOB-GENAI-002", "candidate_id": "CAND-1045", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-26", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1045-JOB-GENAI-001", "candidate_id": "CAND-1045", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-01", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1045-JOB-DA-002", "candidate_id": "CAND-1045", "job_id": "JOB-DA-002", "applied_date": "2025-10-16", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1045-JOB-BE-002", "candidate_id": "CAND-1045", "job_id": "JOB-BE-002", "applied_date": "2025-11-25", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1046-JOB-DA-002", "candidate_id": "CAND-1046", "job_id": "JOB-DA-002", "applied_date": "2025-12-29", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1046-JOB-GENAI-002", "candidate_id": "CAND-1046", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-31", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1046-JOB-BE-001", "candidate_id": "CAND-1046", "job_id": "JOB-BE-001", "applied_date": "2025-12-08", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1046-JOB-GENAI-001", "candidate_id": "CAND-1046", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-09", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1047-JOB-ML-001", "candidate_id": "CAND-1047", "job_id": "JOB-ML-001", "applied_date": "2026-02-07", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1047-JOB-FE-002", "candidate_id": "CAND-1047", "job_id": "JOB-FE-002", "applied_date": "2026-01-25", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1047-JOB-DA-002", "candidate_id": "CAND-1047", "job_id": "JOB-DA-002", "applied_date": "2025-10-16", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1047-JOB-FE-001", "candidate_id": "CAND-1047", "job_id": "JOB-FE-001", "applied_date": "2025-12-27", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1048-JOB-DA-002", "candidate_id": "CAND-1048", "job_id": "JOB-DA-002", "applied_date": "2025-11-22", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1048-JOB-DA-001", "candidate_id": "CAND-1048", "job_id": "JOB-DA-001", "applied_date": "2026-01-04", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1048-JOB-ML-001", "candidate_id": "CAND-1048", "job_id": "JOB-ML-001", "applied_date": "2025-11-09", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1048-JOB-GENAI-001", "candidate_id": "CAND-1048", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-16", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1048-JOB-ML-002", "candidate_id": "CAND-1048", "job_id": "JOB-ML-002", "applied_date": "2026-01-22", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1049-JOB-DA-002", "candidate_id": "CAND-1049", "job_id": "JOB-DA-002", "applied_date": "2026-01-23", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1049-JOB-BE-001", "candidate_id": "CAND-1049", "job_id": "JOB-BE-001", "applied_date": "2025-12-02", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1049-JOB-DA-001", "candidate_id": "CAND-1049", "job_id": "JOB-DA-001", "applied_date": "2026-02-07", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1049-JOB-GENAI-001", "candidate_id": "CAND-1049", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-19", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1049-JOB-FE-001", "candidate_id": "CAND-1049", "job_id": "JOB-FE-001", "applied_date": "2025-10-31", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1050-JOB-FE-002", "candidate_id": "CAND-1050", "job_id": "JOB-FE-002", "applied_date": "2025-11-09", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1050-JOB-GENAI-001", "candidate_id": "CAND-1050", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-21", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1050-JOB-BE-001", "candidate_id": "CAND-1050", "job_id": "JOB-BE-001", "applied_date": "2026-01-06", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1050-JOB-FE-001", "candidate_id": "CAND-1050", "job_id": "JOB-FE-001", "applied_date": "2025-11-16", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1051-JOB-ML-002", "candidate_id": "CAND-1051", "job_id": "JOB-ML-002", "applied_date": "2026-01-29", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1052-JOB-DA-001", "candidate_id": "CAND-1052", "job_id": "JOB-DA-001", "applied_date": "2025-10-22", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1052-JOB-DA-002", "candidate_id": "CAND-1052", "job_id": "JOB-DA-002", "applied_date": "2026-01-08", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1053-JOB-ML-001", "candidate_id": "CAND-1053", "job_id": "JOB-ML-001", "applied_date": "2025-12-19", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1053-JOB-DA-001", "candidate_id": "CAND-1053", "job_id": "JOB-DA-001", "applied_date": "2025-12-24", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1053-JOB-BE-001", "candidate_id": "CAND-1053", "job_id": "JOB-BE-001", "applied_date": "2025-11-21", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1053-JOB-FE-001", "candidate_id": "CAND-1053", "job_id": "JOB-FE-001", "applied_date": "2025-12-05", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1054-JOB-GENAI-002", "candidate_id": "CAND-1054", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-26", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1054-JOB-DA-002", "candidate_id": "CAND-1054", "job_id": "JOB-DA-002", "applied_date": "2025-12-11", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1055-JOB-FE-001", "candidate_id": "CAND-1055", "job_id": "JOB-FE-001", "applied_date": "2025-12-19", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1055-JOB-GENAI-001", "candidate_id": "CAND-1055", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-10", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1056-JOB-GENAI-002", "candidate_id": "CAND-1056", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-28", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1056-JOB-GENAI-001", "candidate_id": "CAND-1056", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-03", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1057-JOB-DA-002", "candidate_id": "CAND-1057", "job_id": "JOB-DA-002", "applied_date": "2025-11-24", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1057-JOB-GENAI-002", "candidate_id": "CAND-1057", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-25", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1057-JOB-GENAI-001", "candidate_id": "CAND-1057", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-10", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1057-JOB-FE-002", "candidate_id": "CAND-1057", "job_id": "JOB-FE-002", "applied_date": "2026-01-30", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1057-JOB-FE-001", "candidate_id": "CAND-1057", "job_id": "JOB-FE-001", "applied_date": "2025-11-04", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1058-JOB-DA-001", "candidate_id": "CAND-1058", "job_id": "JOB-DA-001", "applied_date": "2025-12-26", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1059-JOB-ML-002", "candidate_id": "CAND-1059", "job_id": "JOB-ML-002", "applied_date": "2026-01-04", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1059-JOB-BE-001", "candidate_id": "CAND-1059", "job_id": "JOB-BE-001", "applied_date": "2025-12-30", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1060-JOB-DA-002", "candidate_id": "CAND-1060", "job_id": "JOB-DA-002", "applied_date": "2025-11-19", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1060-JOB-DA-001", "candidate_id": "CAND-1060", "job_id": "JOB-DA-001", "applied_date": "2025-10-29", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1060-JOB-ML-001", "candidate_id": "CAND-1060", "job_id": "JOB-ML-001", "applied_date": "2026-02-01", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1060-JOB-BE-002", "candidate_id": "CAND-1060", "job_id": "JOB-BE-002", "applied_date": "2025-11-10", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1060-JOB-ML-002", "candidate_id": "CAND-1060", "job_id": "JOB-ML-002", "applied_date": "2026-02-09", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1061-JOB-DA-002", "candidate_id": "CAND-1061", "job_id": "JOB-DA-002", "applied_date": "2026-01-17", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1061-JOB-FE-001", "candidate_id": "CAND-1061", "job_id": "JOB-FE-001", "applied_date": "2025-11-02", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1062-JOB-GENAI-002", "candidate_id": "CAND-1062", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-05", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1062-JOB-ML-001", "candidate_id": "CAND-1062", "job_id": "JOB-ML-001", "applied_date": "2025-12-15", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1062-JOB-FE-002", "candidate_id": "CAND-1062", "job_id": "JOB-FE-002", "applied_date": "2026-02-07", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1062-JOB-BE-002", "candidate_id": "CAND-1062", "job_id": "JOB-BE-002", "applied_date": "2025-12-15", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1062-JOB-ML-002", "candidate_id": "CAND-1062", "job_id": "JOB-ML-002", "applied_date": "2025-11-30", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1063-JOB-DA-001", "candidate_id": "CAND-1063", "job_id": "JOB-DA-001", "applied_date": "2025-11-27", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1063-JOB-DA-002", "candidate_id": "CAND-1063", "job_id": "JOB-DA-002", "applied_date": "2026-01-23", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1063-JOB-GENAI-001", "candidate_id": "CAND-1063", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-26", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1064-JOB-DA-002", "candidate_id": "CAND-1064", "job_id": "JOB-DA-002", "applied_date": "2025-11-13", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1064-JOB-BE-001", "candidate_id": "CAND-1064", "job_id": "JOB-BE-001", "applied_date": "2026-01-25", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1064-JOB-ML-001", "candidate_id": "CAND-1064", "job_id": "JOB-ML-001", "applied_date": "2025-12-06", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1064-JOB-FE-002", "candidate_id": "CAND-1064", "job_id": "JOB-FE-002", "applied_date": "2026-01-16", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1064-JOB-FE-001", "candidate_id": "CAND-1064", "job_id": "JOB-FE-001", "applied_date": "2026-02-06", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1065-JOB-FE-001", "candidate_id": "CAND-1065", "job_id": "JOB-FE-001", "applied_date": "2025-12-06", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1065-JOB-BE-002", "candidate_id": "CAND-1065", "job_id": "JOB-BE-002", "applied_date": "2025-10-20", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1066-JOB-DA-001", "candidate_id": "CAND-1066", "job_id": "JOB-DA-001", "applied_date": "2025-12-06", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1066-JOB-GENAI-002", "candidate_id": "CAND-1066", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-12", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1067-JOB-FE-001", "candidate_id": "CAND-1067", "job_id": "JOB-FE-001", "applied_date": "2026-01-05", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1067-JOB-BE-001", "candidate_id": "CAND-1067", "job_id": "JOB-BE-001", "applied_date": "2025-11-09", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1067-JOB-BE-002", "candidate_id": "CAND-1067", "job_id": "JOB-BE-002", "applied_date": "2025-11-23", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1068-JOB-DA-002", "candidate_id": "CAND-1068", "job_id": "JOB-DA-002", "applied_date": "2026-02-01", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1068-JOB-BE-001", "candidate_id": "CAND-1068", "job_id": "JOB-BE-001", "applied_date": "2025-12-07", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1068-JOB-DA-001", "candidate_id": "CAND-1068", "job_id": "JOB-DA-001", "applied_date": "2025-11-17", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1068-JOB-GENAI-002", "candidate_id": "CAND-1068", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-03", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1068-JOB-FE-002", "candidate_id": "CAND-1068", "job_id": "JOB-FE-002", "applied_date": "2026-01-11", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1069-JOB-ML-001", "candidate_id": "CAND-1069", "job_id": "JOB-ML-001", "applied_date": "2025-11-11", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1069-JOB-GENAI-002", "candidate_id": "CAND-1069", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-01", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1069-JOB-ML-002", "candidate_id": "CAND-1069", "job_id": "JOB-ML-002", "applied_date": "2025-11-14", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1069-JOB-FE-001", "candidate_id": "CAND-1069", "job_id": "JOB-FE-001", "applied_date": "2025-12-01", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1070-JOB-ML-001", "candidate_id": "CAND-1070", "job_id": "JOB-ML-001", "applied_date": "2025-11-04", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1070-JOB-ML-002", "candidate_id": "CAND-1070", "job_id": "JOB-ML-002", "applied_date": "2026-01-14", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1071-JOB-GENAI-002", "candidate_id": "CAND-1071", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-16", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1071-JOB-GENAI-001", "candidate_id": "CAND-1071", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-05", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1072-JOB-DA-001", "candidate_id": "CAND-1072", "job_id": "JOB-DA-001", "applied_date": "2025-10-23", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1072-JOB-ML-001", "candidate_id": "CAND-1072", "job_id": "JOB-ML-001", "applied_date": "2025-11-22", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1072-JOB-FE-002", "candidate_id": "CAND-1072", "job_id": "JOB-FE-002", "applied_date": "2026-01-19", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1072-JOB-BE-002", "candidate_id": "CAND-1072", "job_id": "JOB-BE-002", "applied_date": "2025-10-30", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1072-JOB-ML-002", "candidate_id": "CAND-1072", "job_id": "JOB-ML-002", "applied_date": "2025-12-25", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1073-JOB-ML-001", "candidate_id": "CAND-1073", "job_id": "JOB-ML-001", "applied_date": "2026-01-31", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1073-JOB-DA-001", "candidate_id": "CAND-1073", "job_id": "JOB-DA-001", "applied_date": "2026-02-03", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1074-JOB-DA-001", "candidate_id": "CAND-1074", "job_id": "JOB-DA-001", "applied_date": "2025-11-19", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1074-JOB-BE-001", "candidate_id": "CAND-1074", "job_id": "JOB-BE-001", "applied_date": "2025-12-30", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1074-JOB-FE-001", "candidate_id": "CAND-1074", "job_id": "JOB-FE-001", "applied_date": "2025-10-18", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1075-JOB-DA-002", "candidate_id": "CAND-1075", "job_id": "JOB-DA-002", "applied_date": "2025-10-27", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1075-JOB-DA-001", "candidate_id": "CAND-1075", "job_id": "JOB-DA-001", "applied_date": "2025-11-10", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1075-JOB-ML-001", "candidate_id": "CAND-1075", "job_id": "JOB-ML-001", "applied_date": "2025-12-29", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1075-JOB-GENAI-001", "candidate_id": "CAND-1075", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-03", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1075-JOB-ML-002", "candidate_id": "CAND-1075", "job_id": "JOB-ML-002", "applied_date": "2025-11-05", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1076-JOB-BE-002", "candidate_id": "CAND-1076", "job_id": "JOB-BE-002", "applied_date": "2026-01-30", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1076-JOB-FE-002", "candidate_id": "CAND-1076", "job_id": "JOB-FE-002", "applied_date": "2025-10-31", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1076-JOB-DA-001", "candidate_id": "CAND-1076", "job_id": "JOB-DA-001", "applied_date": "2025-12-22", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1076-JOB-FE-001", "candidate_id": "CAND-1076", "job_id": "JOB-FE-001", "applied_date": "2026-02-10", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1077-JOB-FE-002", "candidate_id": "CAND-1077", "job_id": "JOB-FE-002", "applied_date": "2026-01-11", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1077-JOB-FE-001", "candidate_id": "CAND-1077", "job_id": "JOB-FE-001", "applied_date": "2026-01-30", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1078-JOB-DA-002", "candidate_id": "CAND-1078", "job_id": "JOB-DA-002", "applied_date": "2026-01-24", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1078-JOB-BE-001", "candidate_id": "CAND-1078", "job_id": "JOB-BE-001", "applied_date": "2026-02-05", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1078-JOB-GENAI-002", "candidate_id": "CAND-1078", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-17", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1078-JOB-ML-001", "candidate_id": "CAND-1078", "job_id": "JOB-ML-001", "applied_date": "2025-12-23", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1078-JOB-GENAI-001", "candidate_id": "CAND-1078", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-22", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1079-JOB-BE-002", "candidate_id": "CAND-1079", "job_id": "JOB-BE-002", "applied_date": "2025-12-26", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1079-JOB-DA-001", "candidate_id": "CAND-1079", "job_id": "JOB-DA-001", "applied_date": "2025-12-18", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1079-JOB-DA-002", "candidate_id": "CAND-1079", "job_id": "JOB-DA-002", "applied_date": "2025-10-22", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1079-JOB-GENAI-001", "candidate_id": "CAND-1079", "job_id": "JOB-GENAI-001", "applied_date": "2026-02-10", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1080-JOB-FE-002", "candidate_id": "CAND-1080", "job_id": "JOB-FE-002", "applied_date": "2025-12-26", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1080-JOB-ML-002", "candidate_id": "CAND-1080", "job_id": "JOB-ML-002", "applied_date": "2025-11-15", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1080-JOB-FE-001", "candidate_id": "CAND-1080", "job_id": "JOB-FE-001", "applied_date": "2025-12-18", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1081-JOB-FE-002", "candidate_id": "CAND-1081", "job_id": "JOB-FE-002", "applied_date": "2026-01-19", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1082-JOB-ML-002", "candidate_id": "CAND-1082", "job_id": "JOB-ML-002", "applied_date": "2025-11-30", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1082-JOB-DA-001", "candidate_id": "CAND-1082", "job_id": "JOB-DA-001", "applied_date": "2026-02-01", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1082-JOB-DA-002", "candidate_id": "CAND-1082", "job_id": "JOB-DA-002", "applied_date": "2026-02-06", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1082-JOB-BE-002", "candidate_id": "CAND-1082", "job_id": "JOB-BE-002", "applied_date": "2025-11-10", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1083-JOB-DA-002", "candidate_id": "CAND-1083", "job_id": "JOB-DA-002", "applied_date": "2025-10-28", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1083-JOB-BE-001", "candidate_id": "CAND-1083", "job_id": "JOB-BE-001", "applied_date": "2025-12-19", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1083-JOB-DA-001", "candidate_id": "CAND-1083", "job_id": "JOB-DA-001", "applied_date": "2025-12-03", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1083-JOB-FE-002", "candidate_id": "CAND-1083", "job_id": "JOB-FE-002", "applied_date": "2025-10-14", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1083-JOB-GENAI-001", "candidate_id": "CAND-1083", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-29", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1084-JOB-GENAI-002", "candidate_id": "CAND-1084", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-01", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1084-JOB-FE-001", "candidate_id": "CAND-1084", "job_id": "JOB-FE-001", "applied_date": "2025-12-24", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1084-JOB-GENAI-001", "candidate_id": "CAND-1084", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-24", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1085-JOB-BE-002", "candidate_id": "CAND-1085", "job_id": "JOB-BE-002", "applied_date": "2026-01-14", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1086-JOB-DA-002", "candidate_id": "CAND-1086", "job_id": "JOB-DA-002", "applied_date": "2025-11-15", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1086-JOB-GENAI-002", "candidate_id": "CAND-1086", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-28", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1086-JOB-GENAI-001", "candidate_id": "CAND-1086", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-20", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1086-JOB-ML-001", "candidate_id": "CAND-1086", "job_id": "JOB-ML-001", "applied_date": "2025-11-23", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1086-JOB-FE-001", "candidate_id": "CAND-1086", "job_id": "JOB-FE-001", "applied_date": "2025-11-24", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1087-JOB-ML-002", "candidate_id": "CAND-1087", "job_id": "JOB-ML-002", "applied_date": "2026-02-08", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1088-JOB-BE-001", "candidate_id": "CAND-1088", "job_id": "JOB-BE-001", "applied_date": "2025-11-15", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1088-JOB-BE-002", "candidate_id": "CAND-1088", "job_id": "JOB-BE-002", "applied_date": "2026-02-08", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1089-JOB-DA-002", "candidate_id": "CAND-1089", "job_id": "JOB-DA-002", "applied_date": "2025-10-23", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1089-JOB-DA-001", "candidate_id": "CAND-1089", "job_id": "JOB-DA-001", "applied_date": "2025-11-02", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1089-JOB-ML-001", "candidate_id": "CAND-1089", "job_id": "JOB-ML-001", "applied_date": "2025-10-20", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1089-JOB-BE-002", "candidate_id": "CAND-1089", "job_id": "JOB-BE-002", "applied_date": "2025-11-11", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1089-JOB-ML-002", "candidate_id": "CAND-1089", "job_id": "JOB-ML-002", "applied_date": "2025-11-11", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1090-JOB-FE-002", "candidate_id": "CAND-1090", "job_id": "JOB-FE-002", "applied_date": "2025-11-10", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1090-JOB-DA-001", "candidate_id": "CAND-1090", "job_id": "JOB-DA-001", "applied_date": "2025-12-20", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1090-JOB-DA-002", "candidate_id": "CAND-1090", "job_id": "JOB-DA-002", "applied_date": "2025-10-17", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1090-JOB-GENAI-001", "candidate_id": "CAND-1090", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-15", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1091-JOB-DA-001", "candidate_id": "CAND-1091", "job_id": "JOB-DA-001", "applied_date": "2025-12-29", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1091-JOB-DA-002", "candidate_id": "CAND-1091", "job_id": "JOB-DA-002", "applied_date": "2025-12-30", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1091-JOB-FE-001", "candidate_id": "CAND-1091", "job_id": "JOB-FE-001", "applied_date": "2025-11-30", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1092-JOB-GENAI-001", "candidate_id": "CAND-1092", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-23", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1093-JOB-DA-001", "candidate_id": "CAND-1093", "job_id": "JOB-DA-001", "applied_date": "2025-10-21", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1094-JOB-ML-001", "candidate_id": "CAND-1094", "job_id": "JOB-ML-001", "applied_date": "2025-11-21", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1094-JOB-ML-002", "candidate_id": "CAND-1094", "job_id": "JOB-ML-002", "applied_date": "2025-10-25", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1094-JOB-FE-001", "candidate_id": "CAND-1094", "job_id": "JOB-FE-001", "applied_date": "2026-01-03", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1095-JOB-GENAI-002", "candidate_id": "CAND-1095", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-26", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1096-JOB-ML-001", "candidate_id": "CAND-1096", "job_id": "JOB-ML-001", "applied_date": "2025-11-20", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1096-JOB-DA-001", "candidate_id": "CAND-1096", "job_id": "JOB-DA-001", "applied_date": "2025-12-11", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1096-JOB-DA-002", "candidate_id": "CAND-1096", "job_id": "JOB-DA-002", "applied_date": "2025-10-19", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1096-JOB-ML-002", "candidate_id": "CAND-1096", "job_id": "JOB-ML-002", "applied_date": "2025-11-17", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1097-JOB-BE-001", "candidate_id": "CAND-1097", "job_id": "JOB-BE-001", "applied_date": "2026-01-06", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1097-JOB-BE-002", "candidate_id": "CAND-1097", "job_id": "JOB-BE-002", "applied_date": "2025-11-19", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1098-JOB-DA-001", "candidate_id": "CAND-1098", "job_id": "JOB-DA-001", "applied_date": "2025-10-18", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1098-JOB-GENAI-001", "candidate_id": "CAND-1098", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-03", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1098-JOB-BE-001", "candidate_id": "CAND-1098", "job_id": "JOB-BE-001", "applied_date": "2026-01-12", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1098-JOB-BE-002", "candidate_id": "CAND-1098", "job_id": "JOB-BE-002", "applied_date": "2025-11-05", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1099-JOB-ML-001", "candidate_id": "CAND-1099", "job_id": "JOB-ML-001", "applied_date": "2025-11-27", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1099-JOB-BE-001", "candidate_id": "CAND-1099", "job_id": "JOB-BE-001", "applied_date": "2026-02-10", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1099-JOB-ML-002", "candidate_id": "CAND-1099", "job_id": "JOB-ML-002", "applied_date": "2025-11-26", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1099-JOB-GENAI-001", "candidate_id": "CAND-1099", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-22", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1100-JOB-BE-001", "candidate_id": "CAND-1100", "job_id": "JOB-BE-001", "applied_date": "2025-11-18", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1100-JOB-ML-001", "candidate_id": "CAND-1100", "job_id": "JOB-ML-001", "applied_date": "2025-12-06", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1100-JOB-FE-002", "candidate_id": "CAND-1100", "job_id": "JOB-FE-002", "applied_date": "2025-11-02", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1100-JOB-BE-002", "candidate_id": "CAND-1100", "job_id": "JOB-BE-002", "applied_date": "2026-01-12", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1100-JOB-ML-002", "candidate_id": "CAND-1100", "job_id": "JOB-ML-002", "applied_date": "2025-10-14", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1101-JOB-DA-002", "candidate_id": "CAND-1101", "job_id": "JOB-DA-002", "applied_date": "2025-12-15", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1101-JOB-GENAI-002", "candidate_id": "CAND-1101", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-30", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1102-JOB-ML-002", "candidate_id": "CAND-1102", "job_id": "JOB-ML-002", "applied_date": "2026-02-03", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1103-JOB-DA-001", "candidate_id": "CAND-1103", "job_id": "JOB-DA-001", "applied_date": "2025-10-29", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1103-JOB-ML-002", "candidate_id": "CAND-1103", "job_id": "JOB-ML-002", "applied_date": "2025-11-18", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1104-JOB-FE-002", "candidate_id": "CAND-1104", "job_id": "JOB-FE-002", "applied_date": "2025-12-08", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1104-JOB-BE-001", "candidate_id": "CAND-1104", "job_id": "JOB-BE-001", "applied_date": "2026-01-28", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1104-JOB-BE-002", "candidate_id": "CAND-1104", "job_id": "JOB-BE-002", "applied_date": "2026-01-21", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1105-JOB-DA-002", "candidate_id": "CAND-1105", "job_id": "JOB-DA-002", "applied_date": "2025-10-24", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1105-JOB-DA-001", "candidate_id": "CAND-1105", "job_id": "JOB-DA-001", "applied_date": "2025-11-07", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1105-JOB-GENAI-002", "candidate_id": "CAND-1105", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-31", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1105-JOB-ML-001", "candidate_id": "CAND-1105", "job_id": "JOB-ML-001", "applied_date": "2025-12-14", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1105-JOB-GENAI-001", "candidate_id": "CAND-1105", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-16", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1106-JOB-DA-002", "candidate_id": "CAND-1106", "job_id": "JOB-DA-002", "applied_date": "2025-10-29", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1106-JOB-GENAI-002", "candidate_id": "CAND-1106", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-15", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1106-JOB-ML-001", "candidate_id": "CAND-1106", "job_id": "JOB-ML-001", "applied_date": "2026-02-01", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1106-JOB-BE-002", "candidate_id": "CAND-1106", "job_id": "JOB-BE-002", "applied_date": "2025-12-29", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1106-JOB-ML-002", "candidate_id": "CAND-1106", "job_id": "JOB-ML-002", "applied_date": "2025-11-03", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1107-JOB-FE-002", "candidate_id": "CAND-1107", "job_id": "JOB-FE-002", "applied_date": "2025-12-28", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1107-JOB-DA-001", "candidate_id": "CAND-1107", "job_id": "JOB-DA-001", "applied_date": "2025-10-22", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1107-JOB-DA-002", "candidate_id": "CAND-1107", "job_id": "JOB-DA-002", "applied_date": "2025-11-18", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1107-JOB-BE-002", "candidate_id": "CAND-1107", "job_id": "JOB-BE-002", "applied_date": "2026-01-03", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1108-JOB-DA-001", "candidate_id": "CAND-1108", "job_id": "JOB-DA-001", "applied_date": "2026-01-24", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1108-JOB-BE-001", "candidate_id": "CAND-1108", "job_id": "JOB-BE-001", "applied_date": "2025-10-27", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1108-JOB-GENAI-001", "candidate_id": "CAND-1108", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-16", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1109-JOB-BE-002", "candidate_id": "CAND-1109", "job_id": "JOB-BE-002", "applied_date": "2025-12-16", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1110-JOB-GENAI-002", "candidate_id": "CAND-1110", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-30", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1110-JOB-GENAI-001", "candidate_id": "CAND-1110", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-17", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1111-JOB-GENAI-001", "candidate_id": "CAND-1111", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-06", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1112-JOB-ML-001", "candidate_id": "CAND-1112", "job_id": "JOB-ML-001", "applied_date": "2025-12-26", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1112-JOB-GENAI-002", "candidate_id": "CAND-1112", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-07", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1112-JOB-ML-002", "candidate_id": "CAND-1112", "job_id": "JOB-ML-002", "applied_date": "2026-02-08", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1112-JOB-BE-002", "candidate_id": "CAND-1112", "job_id": "JOB-BE-002", "applied_date": "2025-10-31", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1113-JOB-GENAI-002", "candidate_id": "CAND-1113", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-26", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1114-JOB-FE-001", "candidate_id": "CAND-1114", "job_id": "JOB-FE-001", "applied_date": "2025-11-09", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1114-JOB-DA-001", "candidate_id": "CAND-1114", "job_id": "JOB-DA-001", "applied_date": "2026-01-23", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1114-JOB-BE-001", "candidate_id": "CAND-1114", "job_id": "JOB-BE-001", "applied_date": "2025-11-30", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1114-JOB-BE-002", "candidate_id": "CAND-1114", "job_id": "JOB-BE-002", "applied_date": "2025-12-06", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1115-JOB-ML-001", "candidate_id": "CAND-1115", "job_id": "JOB-ML-001", "applied_date": "2026-01-19", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1115-JOB-DA-002", "candidate_id": "CAND-1115", "job_id": "JOB-DA-002", "applied_date": "2026-01-22", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1115-JOB-ML-002", "candidate_id": "CAND-1115", "job_id": "JOB-ML-002", "applied_date": "2025-10-21", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1115-JOB-FE-001", "candidate_id": "CAND-1115", "job_id": "JOB-FE-001", "applied_date": "2026-02-07", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1116-JOB-DA-001", "candidate_id": "CAND-1116", "job_id": "JOB-DA-001", "applied_date": "2026-02-07", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1116-JOB-DA-002", "candidate_id": "CAND-1116", "job_id": "JOB-DA-002", "applied_date": "2025-11-08", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1116-JOB-GENAI-002", "candidate_id": "CAND-1116", "job_id": "JOB-GENAI-002", "applied_date": "2026-02-05", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1117-JOB-GENAI-001", "candidate_id": "CAND-1117", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-13", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1117-JOB-ML-001", "candidate_id": "CAND-1117", "job_id": "JOB-ML-001", "applied_date": "2025-11-11", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1117-JOB-FE-002", "candidate_id": "CAND-1117", "job_id": "JOB-FE-002", "applied_date": "2025-10-20", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1117-JOB-BE-002", "candidate_id": "CAND-1117", "job_id": "JOB-BE-002", "applied_date": "2026-01-10", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1117-JOB-FE-001", "candidate_id": "CAND-1117", "job_id": "JOB-FE-001", "applied_date": "2026-01-18", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1118-JOB-ML-001", "candidate_id": "CAND-1118", "job_id": "JOB-ML-001", "applied_date": "2025-11-22", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1118-JOB-FE-002", "candidate_id": "CAND-1118", "job_id": "JOB-FE-002", "applied_date": "2026-01-18", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1118-JOB-DA-002", "candidate_id": "CAND-1118", "job_id": "JOB-DA-002", "applied_date": "2025-11-21", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1118-JOB-FE-001", "candidate_id": "CAND-1118", "job_id": "JOB-FE-001", "applied_date": "2026-01-21", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1119-JOB-BE-002", "candidate_id": "CAND-1119", "job_id": "JOB-BE-002", "applied_date": "2025-12-11", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1120-JOB-GENAI-002", "candidate_id": "CAND-1120", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-09", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1120-JOB-ML-001", "candidate_id": "CAND-1120", "job_id": "JOB-ML-001", "applied_date": "2025-11-04", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1120-JOB-FE-002", "candidate_id": "CAND-1120", "job_id": "JOB-FE-002", "applied_date": "2025-11-18", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1120-JOB-BE-002", "candidate_id": "CAND-1120", "job_id": "JOB-BE-002", "applied_date": "2025-11-05", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1120-JOB-FE-001", "candidate_id": "CAND-1120", "job_id": "JOB-FE-001", "applied_date": "2026-02-02", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1121-JOB-FE-001", "candidate_id": "CAND-1121", "job_id": "JOB-FE-001", "applied_date": "2026-01-29", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1122-JOB-ML-001", "candidate_id": "CAND-1122", "job_id": "JOB-ML-001", "applied_date": "2025-12-02", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1123-JOB-ML-001", "candidate_id": "CAND-1123", "job_id": "JOB-ML-001", "applied_date": "2026-01-18", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1123-JOB-ML-002", "candidate_id": "CAND-1123", "job_id": "JOB-ML-002", "applied_date": "2026-01-17", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1123-JOB-BE-002", "candidate_id": "CAND-1123", "job_id": "JOB-BE-002", "applied_date": "2025-11-03", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1124-JOB-ML-001", "candidate_id": "CAND-1124", "job_id": "JOB-ML-001", "applied_date": "2025-12-03", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1124-JOB-GENAI-002", "candidate_id": "CAND-1124", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-24", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1124-JOB-BE-001", "candidate_id": "CAND-1124", "job_id": "JOB-BE-001", "applied_date": "2026-02-04", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1125-JOB-FE-001", "candidate_id": "CAND-1125", "job_id": "JOB-FE-001", "applied_date": "2026-02-03", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1125-JOB-BE-001", "candidate_id": "CAND-1125", "job_id": "JOB-BE-001", "applied_date": "2026-01-23", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1125-JOB-ML-002", "candidate_id": "CAND-1125", "job_id": "JOB-ML-002", "applied_date": "2025-11-05", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1125-JOB-BE-002", "candidate_id": "CAND-1125", "job_id": "JOB-BE-002", "applied_date": "2025-11-02", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1126-JOB-ML-001", "candidate_id": "CAND-1126", "job_id": "JOB-ML-001", "applied_date": "2025-12-24", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1126-JOB-FE-002", "candidate_id": "CAND-1126", "job_id": "JOB-FE-002", "applied_date": "2025-11-22", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1126-JOB-DA-001", "candidate_id": "CAND-1126", "job_id": "JOB-DA-001", "applied_date": "2025-11-28", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1126-JOB-ML-002", "candidate_id": "CAND-1126", "job_id": "JOB-ML-002", "applied_date": "2025-11-05", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1127-JOB-DA-002", "candidate_id": "CAND-1127", "job_id": "JOB-DA-002", "applied_date": "2026-02-09", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1127-JOB-GENAI-001", "candidate_id": "CAND-1127", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-10", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1127-JOB-FE-002", "candidate_id": "CAND-1127", "job_id": "JOB-FE-002", "applied_date": "2026-01-13", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1127-JOB-BE-002", "candidate_id": "CAND-1127", "job_id": "JOB-BE-002", "applied_date": "2025-11-17", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1127-JOB-FE-001", "candidate_id": "CAND-1127", "job_id": "JOB-FE-001", "applied_date": "2025-11-03", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1128-JOB-DA-002", "candidate_id": "CAND-1128", "job_id": "JOB-DA-002", "applied_date": "2025-11-17", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1128-JOB-BE-001", "candidate_id": "CAND-1128", "job_id": "JOB-BE-001", "applied_date": "2025-11-30", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1128-JOB-DA-001", "candidate_id": "CAND-1128", "job_id": "JOB-DA-001", "applied_date": "2025-11-22", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1128-JOB-FE-002", "candidate_id": "CAND-1128", "job_id": "JOB-FE-002", "applied_date": "2026-01-04", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1128-JOB-FE-001", "candidate_id": "CAND-1128", "job_id": "JOB-FE-001", "applied_date": "2025-11-09", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1129-JOB-ML-001", "candidate_id": "CAND-1129", "job_id": "JOB-ML-001", "applied_date": "2025-11-03", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1129-JOB-GENAI-002", "candidate_id": "CAND-1129", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-24", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1129-JOB-ML-002", "candidate_id": "CAND-1129", "job_id": "JOB-ML-002", "applied_date": "2025-12-27", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1130-JOB-FE-002", "candidate_id": "CAND-1130", "job_id": "JOB-FE-002", "applied_date": "2025-10-16", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1130-JOB-GENAI-001", "candidate_id": "CAND-1130", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-01", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1131-JOB-ML-001", "candidate_id": "CAND-1131", "job_id": "JOB-ML-001", "applied_date": "2026-01-20", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1131-JOB-BE-002", "candidate_id": "CAND-1131", "job_id": "JOB-BE-002", "applied_date": "2026-01-27", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1132-JOB-GENAI-002", "candidate_id": "CAND-1132", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-16", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1132-JOB-GENAI-001", "candidate_id": "CAND-1132", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-11", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1132-JOB-BE-002", "candidate_id": "CAND-1132", "job_id": "JOB-BE-002", "applied_date": "2025-10-24", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1133-JOB-FE-002", "candidate_id": "CAND-1133", "job_id": "JOB-FE-002", "applied_date": "2026-01-10", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1133-JOB-BE-001", "candidate_id": "CAND-1133", "job_id": "JOB-BE-001", "applied_date": "2025-11-20", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1133-JOB-FE-001", "candidate_id": "CAND-1133", "job_id": "JOB-FE-001", "applied_date": "2026-02-09", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1134-JOB-BE-002", "candidate_id": "CAND-1134", "job_id": "JOB-BE-002", "applied_date": "2025-10-26", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1135-JOB-DA-002", "candidate_id": "CAND-1135", "job_id": "JOB-DA-002", "applied_date": "2026-01-01", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1135-JOB-BE-001", "candidate_id": "CAND-1135", "job_id": "JOB-BE-001", "applied_date": "2026-02-01", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1135-JOB-DA-001", "candidate_id": "CAND-1135", "job_id": "JOB-DA-001", "applied_date": "2025-10-23", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1135-JOB-GENAI-002", "candidate_id": "CAND-1135", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-28", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1135-JOB-FE-001", "candidate_id": "CAND-1135", "job_id": "JOB-FE-001", "applied_date": "2025-10-16", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1136-JOB-BE-001", "candidate_id": "CAND-1136", "job_id": "JOB-BE-001", "applied_date": "2025-10-22", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1136-JOB-GENAI-002", "candidate_id": "CAND-1136", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-15", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1136-JOB-GENAI-001", "candidate_id": "CAND-1136", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-10", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1136-JOB-BE-002", "candidate_id": "CAND-1136", "job_id": "JOB-BE-002", "applied_date": "2026-01-09", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1136-JOB-ML-002", "candidate_id": "CAND-1136", "job_id": "JOB-ML-002", "applied_date": "2025-12-10", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1137-JOB-FE-002", "candidate_id": "CAND-1137", "job_id": "JOB-FE-002", "applied_date": "2025-11-19", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1137-JOB-DA-001", "candidate_id": "CAND-1137", "job_id": "JOB-DA-001", "applied_date": "2025-12-30", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1137-JOB-BE-001", "candidate_id": "CAND-1137", "job_id": "JOB-BE-001", "applied_date": "2025-12-21", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1137-JOB-FE-001", "candidate_id": "CAND-1137", "job_id": "JOB-FE-001", "applied_date": "2025-10-30", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1138-JOB-ML-001", "candidate_id": "CAND-1138", "job_id": "JOB-ML-001", "applied_date": "2025-10-22", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1138-JOB-DA-001", "candidate_id": "CAND-1138", "job_id": "JOB-DA-001", "applied_date": "2025-12-25", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1138-JOB-ML-002", "candidate_id": "CAND-1138", "job_id": "JOB-ML-002", "applied_date": "2025-10-19", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1138-JOB-GENAI-001", "candidate_id": "CAND-1138", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-08", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1139-JOB-DA-001", "candidate_id": "CAND-1139", "job_id": "JOB-DA-001", "applied_date": "2025-10-14", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1140-JOB-DA-001", "candidate_id": "CAND-1140", "job_id": "JOB-DA-001", "applied_date": "2026-01-17", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1140-JOB-DA-002", "candidate_id": "CAND-1140", "job_id": "JOB-DA-002", "applied_date": "2025-11-24", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1140-JOB-ML-002", "candidate_id": "CAND-1140", "job_id": "JOB-ML-002", "applied_date": "2025-10-15", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1141-JOB-ML-002", "candidate_id": "CAND-1141", "job_id": "JOB-ML-002", "applied_date": "2026-01-29", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1141-JOB-FE-002", "candidate_id": "CAND-1141", "job_id": "JOB-FE-002", "applied_date": "2025-11-18", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1141-JOB-BE-001", "candidate_id": "CAND-1141", "job_id": "JOB-BE-001", "applied_date": "2025-11-30", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1141-JOB-BE-002", "candidate_id": "CAND-1141", "job_id": "JOB-BE-002", "applied_date": "2025-12-06", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1142-JOB-FE-002", "candidate_id": "CAND-1142", "job_id": "JOB-FE-002", "applied_date": "2025-10-13", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1142-JOB-FE-001", "candidate_id": "CAND-1142", "job_id": "JOB-FE-001", "applied_date": "2025-12-17", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1143-JOB-FE-002", "candidate_id": "CAND-1143", "job_id": "JOB-FE-002", "applied_date": "2026-01-17", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1143-JOB-DA-001", "candidate_id": "CAND-1143", "job_id": "JOB-DA-001", "applied_date": "2026-02-04", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1143-JOB-DA-002", "candidate_id": "CAND-1143", "job_id": "JOB-DA-002", "applied_date": "2025-12-05", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1143-JOB-FE-001", "candidate_id": "CAND-1143", "job_id": "JOB-FE-001", "applied_date": "2025-12-25", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1144-JOB-DA-002", "candidate_id": "CAND-1144", "job_id": "JOB-DA-002", "applied_date": "2026-01-18", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1145-JOB-ML-001", "candidate_id": "CAND-1145", "job_id": "JOB-ML-001", "applied_date": "2025-12-09", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1146-JOB-DA-002", "candidate_id": "CAND-1146", "job_id": "JOB-DA-002", "applied_date": "2025-10-25", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1146-JOB-DA-001", "candidate_id": "CAND-1146", "job_id": "JOB-DA-001", "applied_date": "2026-01-25", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1146-JOB-GENAI-002", "candidate_id": "CAND-1146", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-12", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1146-JOB-BE-002", "candidate_id": "CAND-1146", "job_id": "JOB-BE-002", "applied_date": "2026-01-27", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1146-JOB-ML-002", "candidate_id": "CAND-1146", "job_id": "JOB-ML-002", "applied_date": "2025-10-27", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1147-JOB-FE-001", "candidate_id": "CAND-1147", "job_id": "JOB-FE-001", "applied_date": "2026-01-11", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1148-JOB-FE-002", "candidate_id": "CAND-1148", "job_id": "JOB-FE-002", "applied_date": "2025-11-18", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1148-JOB-ML-002", "candidate_id": "CAND-1148", "job_id": "JOB-ML-002", "applied_date": "2025-11-04", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1148-JOB-FE-001", "candidate_id": "CAND-1148", "job_id": "JOB-FE-001", "applied_date": "2026-02-05", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1149-JOB-DA-002", "candidate_id": "CAND-1149", "job_id": "JOB-DA-002", "applied_date": "2025-10-16", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1149-JOB-FE-001", "candidate_id": "CAND-1149", "job_id": "JOB-FE-001", "applied_date": "2025-12-13", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1150-JOB-ML-001", "candidate_id": "CAND-1150", "job_id": "JOB-ML-001", "applied_date": "2026-02-10", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1150-JOB-GENAI-002", "candidate_id": "CAND-1150", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-30", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1150-JOB-ML-002", "candidate_id": "CAND-1150", "job_id": "JOB-ML-002", "applied_date": "2025-11-04", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1150-JOB-BE-001", "candidate_id": "CAND-1150", "job_id": "JOB-BE-001", "applied_date": "2025-10-24", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1151-JOB-DA-002", "candidate_id": "CAND-1151", "job_id": "JOB-DA-002", "applied_date": "2025-10-23", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1151-JOB-GENAI-002", "candidate_id": "CAND-1151", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-20", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1151-JOB-ML-001", "candidate_id": "CAND-1151", "job_id": "JOB-ML-001", "applied_date": "2025-12-22", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1151-JOB-BE-002", "candidate_id": "CAND-1151", "job_id": "JOB-BE-002", "applied_date": "2026-01-28", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1151-JOB-ML-002", "candidate_id": "CAND-1151", "job_id": "JOB-ML-002", "applied_date": "2026-01-03", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1152-JOB-GENAI-001", "candidate_id": "CAND-1152", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-14", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1153-JOB-FE-002", "candidate_id": "CAND-1153", "job_id": "JOB-FE-002", "applied_date": "2026-01-18", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1153-JOB-DA-002", "candidate_id": "CAND-1153", "job_id": "JOB-DA-002", "applied_date": "2025-11-14", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1154-JOB-DA-001", "candidate_id": "CAND-1154", "job_id": "JOB-DA-001", "applied_date": "2025-11-23", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1154-JOB-GENAI-002", "candidate_id": "CAND-1154", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-18", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1154-JOB-FE-002", "candidate_id": "CAND-1154", "job_id": "JOB-FE-002", "applied_date": "2025-12-29", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1154-JOB-FE-001", "candidate_id": "CAND-1154", "job_id": "JOB-FE-001", "applied_date": "2026-01-03", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1154-JOB-ML-002", "candidate_id": "CAND-1154", "job_id": "JOB-ML-002", "applied_date": "2026-01-21", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1155-JOB-ML-001", "candidate_id": "CAND-1155", "job_id": "JOB-ML-001", "applied_date": "2025-11-06", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1155-JOB-GENAI-001", "candidate_id": "CAND-1155", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-21", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1155-JOB-BE-001", "candidate_id": "CAND-1155", "job_id": "JOB-BE-001", "applied_date": "2025-12-24", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1155-JOB-BE-002", "candidate_id": "CAND-1155", "job_id": "JOB-BE-002", "applied_date": "2025-11-04", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1156-JOB-FE-002", "candidate_id": "CAND-1156", "job_id": "JOB-FE-002", "applied_date": "2025-12-28", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1156-JOB-GENAI-002", "candidate_id": "CAND-1156", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-20", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1156-JOB-GENAI-001", "candidate_id": "CAND-1156", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-19", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1157-JOB-GENAI-001", "candidate_id": "CAND-1157", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-21", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1157-JOB-BE-001", "candidate_id": "CAND-1157", "job_id": "JOB-BE-001", "applied_date": "2025-11-11", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1157-JOB-BE-002", "candidate_id": "CAND-1157", "job_id": "JOB-BE-002", "applied_date": "2025-11-25", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1158-JOB-DA-002", "candidate_id": "CAND-1158", "job_id": "JOB-DA-002", "applied_date": "2025-12-15", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1158-JOB-BE-001", "candidate_id": "CAND-1158", "job_id": "JOB-BE-001", "applied_date": "2026-02-05", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1158-JOB-DA-001", "candidate_id": "CAND-1158", "job_id": "JOB-DA-001", "applied_date": "2025-11-18", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1158-JOB-GENAI-002", "candidate_id": "CAND-1158", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-02", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1158-JOB-FE-001", "candidate_id": "CAND-1158", "job_id": "JOB-FE-001", "applied_date": "2025-10-22", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1159-JOB-DA-002", "candidate_id": "CAND-1159", "job_id": "JOB-DA-002", "applied_date": "2025-10-30", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1159-JOB-GENAI-001", "candidate_id": "CAND-1159", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-19", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1159-JOB-FE-002", "candidate_id": "CAND-1159", "job_id": "JOB-FE-002", "applied_date": "2025-10-30", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1159-JOB-BE-002", "candidate_id": "CAND-1159", "job_id": "JOB-BE-002", "applied_date": "2026-01-10", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1159-JOB-FE-001", "candidate_id": "CAND-1159", "job_id": "JOB-FE-001", "applied_date": "2025-12-25", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1160-JOB-DA-002", "candidate_id": "CAND-1160", "job_id": "JOB-DA-002", "applied_date": "2025-11-22", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1160-JOB-DA-001", "candidate_id": "CAND-1160", "job_id": "JOB-DA-001", "applied_date": "2025-11-24", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1160-JOB-GENAI-002", "candidate_id": "CAND-1160", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-12", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1160-JOB-FE-002", "candidate_id": "CAND-1160", "job_id": "JOB-FE-002", "applied_date": "2025-10-16", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1160-JOB-GENAI-001", "candidate_id": "CAND-1160", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-30", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1161-JOB-ML-002", "candidate_id": "CAND-1161", "job_id": "JOB-ML-002", "applied_date": "2025-12-03", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1161-JOB-GENAI-002", "candidate_id": "CAND-1161", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-27", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1161-JOB-BE-001", "candidate_id": "CAND-1161", "job_id": "JOB-BE-001", "applied_date": "2025-11-14", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1161-JOB-BE-002", "candidate_id": "CAND-1161", "job_id": "JOB-BE-002", "applied_date": "2025-12-13", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1162-JOB-DA-001", "candidate_id": "CAND-1162", "job_id": "JOB-DA-001", "applied_date": "2025-12-24", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1162-JOB-DA-002", "candidate_id": "CAND-1162", "job_id": "JOB-DA-002", "applied_date": "2025-12-26", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1162-JOB-ML-002", "candidate_id": "CAND-1162", "job_id": "JOB-ML-002", "applied_date": "2025-11-01", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1162-JOB-GENAI-002", "candidate_id": "CAND-1162", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-27", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1163-JOB-GENAI-001", "candidate_id": "CAND-1163", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-22", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1164-JOB-DA-001", "candidate_id": "CAND-1164", "job_id": "JOB-DA-001", "applied_date": "2025-12-10", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1164-JOB-DA-002", "candidate_id": "CAND-1164", "job_id": "JOB-DA-002", "applied_date": "2025-12-17", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1164-JOB-BE-002", "candidate_id": "CAND-1164", "job_id": "JOB-BE-002", "applied_date": "2025-12-10", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1165-JOB-ML-001", "candidate_id": "CAND-1165", "job_id": "JOB-ML-001", "applied_date": "2025-12-31", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1166-JOB-FE-002", "candidate_id": "CAND-1166", "job_id": "JOB-FE-002", "applied_date": "2025-12-10", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1166-JOB-DA-002", "candidate_id": "CAND-1166", "job_id": "JOB-DA-002", "applied_date": "2025-11-22", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1166-JOB-FE-001", "candidate_id": "CAND-1166", "job_id": "JOB-FE-001", "applied_date": "2025-11-22", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1167-JOB-ML-001", "candidate_id": "CAND-1167", "job_id": "JOB-ML-001", "applied_date": "2025-10-17", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1167-JOB-FE-002", "candidate_id": "CAND-1167", "job_id": "JOB-FE-002", "applied_date": "2025-11-24", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1167-JOB-BE-001", "candidate_id": "CAND-1167", "job_id": "JOB-BE-001", "applied_date": "2025-12-10", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1167-JOB-BE-002", "candidate_id": "CAND-1167", "job_id": "JOB-BE-002", "applied_date": "2025-10-20", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1168-JOB-DA-001", "candidate_id": "CAND-1168", "job_id": "JOB-DA-001", "applied_date": "2026-01-01", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1168-JOB-GENAI-002", "candidate_id": "CAND-1168", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-16", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1168-JOB-GENAI-001", "candidate_id": "CAND-1168", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-25", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1168-JOB-FE-001", "candidate_id": "CAND-1168", "job_id": "JOB-FE-001", "applied_date": "2025-11-09", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1168-JOB-ML-002", "candidate_id": "CAND-1168", "job_id": "JOB-ML-002", "applied_date": "2025-12-05", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1169-JOB-ML-001", "candidate_id": "CAND-1169", "job_id": "JOB-ML-001", "applied_date": "2026-01-03", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1169-JOB-ML-002", "candidate_id": "CAND-1169", "job_id": "JOB-ML-002", "applied_date": "2026-01-23", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1170-JOB-ML-002", "candidate_id": "CAND-1170", "job_id": "JOB-ML-002", "applied_date": "2026-01-31", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1171-JOB-ML-001", "candidate_id": "CAND-1171", "job_id": "JOB-ML-001", "applied_date": "2025-11-26", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1171-JOB-ML-002", "candidate_id": "CAND-1171", "job_id": "JOB-ML-002", "applied_date": "2026-01-28", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1172-JOB-GENAI-002", "candidate_id": "CAND-1172", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-02", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1172-JOB-ML-002", "candidate_id": "CAND-1172", "job_id": "JOB-ML-002", "applied_date": "2026-01-23", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1172-JOB-GENAI-001", "candidate_id": "CAND-1172", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-02", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1173-JOB-FE-002", "candidate_id": "CAND-1173", "job_id": "JOB-FE-002", "applied_date": "2025-11-10", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1173-JOB-DA-001", "candidate_id": "CAND-1173", "job_id": "JOB-DA-001", "applied_date": "2026-02-02", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1173-JOB-FE-001", "candidate_id": "CAND-1173", "job_id": "JOB-FE-001", "applied_date": "2026-01-22", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1174-JOB-DA-001", "candidate_id": "CAND-1174", "job_id": "JOB-DA-001", "applied_date": "2025-12-27", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1174-JOB-DA-002", "candidate_id": "CAND-1174", "job_id": "JOB-DA-002", "applied_date": "2025-12-20", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1175-JOB-ML-001", "candidate_id": "CAND-1175", "job_id": "JOB-ML-001", "applied_date": "2025-12-08", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1175-JOB-DA-001", "candidate_id": "CAND-1175", "job_id": "JOB-DA-001", "applied_date": "2025-12-23", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1175-JOB-DA-002", "candidate_id": "CAND-1175", "job_id": "JOB-DA-002", "applied_date": "2025-12-07", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1175-JOB-ML-002", "candidate_id": "CAND-1175", "job_id": "JOB-ML-002", "applied_date": "2026-02-07", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1176-JOB-BE-001", "candidate_id": "CAND-1176", "job_id": "JOB-BE-001", "applied_date": "2026-01-16", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1177-JOB-ML-001", "candidate_id": "CAND-1177", "job_id": "JOB-ML-001", "applied_date": "2025-12-07", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1177-JOB-ML-002", "candidate_id": "CAND-1177", "job_id": "JOB-ML-002", "applied_date": "2026-01-14", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1178-JOB-ML-002", "candidate_id": "CAND-1178", "job_id": "JOB-ML-002", "applied_date": "2026-01-07", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1179-JOB-DA-002", "candidate_id": "CAND-1179", "job_id": "JOB-DA-002", "applied_date": "2026-01-16", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1179-JOB-BE-001", "candidate_id": "CAND-1179", "job_id": "JOB-BE-001", "applied_date": "2025-10-27", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1179-JOB-GENAI-002", "candidate_id": "CAND-1179", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-29", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1179-JOB-GENAI-001", "candidate_id": "CAND-1179", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-13", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1179-JOB-FE-001", "candidate_id": "CAND-1179", "job_id": "JOB-FE-001", "applied_date": "2025-11-30", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1180-JOB-BE-001", "candidate_id": "CAND-1180", "job_id": "JOB-BE-001", "applied_date": "2026-02-01", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1180-JOB-GENAI-002", "candidate_id": "CAND-1180", "job_id": "JOB-GENAI-002", "applied_date": "2025-10-20", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1180-JOB-ML-001", "candidate_id": "CAND-1180", "job_id": "JOB-ML-001", "applied_date": "2025-11-23", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1180-JOB-FE-002", "candidate_id": "CAND-1180", "job_id": "JOB-FE-002", "applied_date": "2026-01-06", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1180-JOB-ML-002", "candidate_id": "CAND-1180", "job_id": "JOB-ML-002", "applied_date": "2025-12-16", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1181-JOB-ML-001", "candidate_id": "CAND-1181", "job_id": "JOB-ML-001", "applied_date": "2025-11-08", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1181-JOB-ML-002", "candidate_id": "CAND-1181", "job_id": "JOB-ML-002", "applied_date": "2026-01-06", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1182-JOB-DA-001", "candidate_id": "CAND-1182", "job_id": "JOB-DA-001", "applied_date": "2025-10-14", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1182-JOB-DA-002", "candidate_id": "CAND-1182", "job_id": "JOB-DA-002", "applied_date": "2025-10-16", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1182-JOB-FE-001", "candidate_id": "CAND-1182", "job_id": "JOB-FE-001", "applied_date": "2026-01-19", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1183-JOB-ML-001", "candidate_id": "CAND-1183", "job_id": "JOB-ML-001", "applied_date": "2025-12-14", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1184-JOB-DA-002", "candidate_id": "CAND-1184", "job_id": "JOB-DA-002", "applied_date": "2026-01-19", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1184-JOB-BE-001", "candidate_id": "CAND-1184", "job_id": "JOB-BE-001", "applied_date": "2025-10-19", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1184-JOB-BE-002", "candidate_id": "CAND-1184", "job_id": "JOB-BE-002", "applied_date": "2025-11-04", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1185-JOB-DA-001", "candidate_id": "CAND-1185", "job_id": "JOB-DA-001", "applied_date": "2025-12-01", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1185-JOB-GENAI-002", "candidate_id": "CAND-1185", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-11", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1185-JOB-DA-002", "candidate_id": "CAND-1185", "job_id": "JOB-DA-002", "applied_date": "2025-12-26", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1185-JOB-GENAI-001", "candidate_id": "CAND-1185", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-25", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1186-JOB-DA-002", "candidate_id": "CAND-1186", "job_id": "JOB-DA-002", "applied_date": "2025-11-16", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1186-JOB-DA-001", "candidate_id": "CAND-1186", "job_id": "JOB-DA-001", "applied_date": "2025-12-26", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1186-JOB-ML-001", "candidate_id": "CAND-1186", "job_id": "JOB-ML-001", "applied_date": "2025-11-25", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1186-JOB-BE-002", "candidate_id": "CAND-1186", "job_id": "JOB-BE-002", "applied_date": "2025-12-30", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1186-JOB-ML-002", "candidate_id": "CAND-1186", "job_id": "JOB-ML-002", "applied_date": "2025-12-15", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1187-JOB-DA-002", "candidate_id": "CAND-1187", "job_id": "JOB-DA-002", "applied_date": "2025-12-08", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1188-JOB-ML-001", "candidate_id": "CAND-1188", "job_id": "JOB-ML-001", "applied_date": "2026-01-31", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1188-JOB-FE-002", "candidate_id": "CAND-1188", "job_id": "JOB-FE-002", "applied_date": "2025-12-08", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1188-JOB-DA-002", "candidate_id": "CAND-1188", "job_id": "JOB-DA-002", "applied_date": "2025-12-06", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1189-JOB-BE-002", "candidate_id": "CAND-1189", "job_id": "JOB-BE-002", "applied_date": "2025-10-14", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1190-JOB-GENAI-002", "candidate_id": "CAND-1190", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-13", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1190-JOB-GENAI-001", "candidate_id": "CAND-1190", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-27", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1191-JOB-DA-002", "candidate_id": "CAND-1191", "job_id": "JOB-DA-002", "applied_date": "2026-02-07", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1191-JOB-BE-001", "candidate_id": "CAND-1191", "job_id": "JOB-BE-001", "applied_date": "2025-12-10", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1191-JOB-DA-001", "candidate_id": "CAND-1191", "job_id": "JOB-DA-001", "applied_date": "2026-01-09", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1191-JOB-GENAI-001", "candidate_id": "CAND-1191", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-31", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1191-JOB-ML-002", "candidate_id": "CAND-1191", "job_id": "JOB-ML-002", "applied_date": "2025-12-14", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1192-JOB-ML-001", "candidate_id": "CAND-1192", "job_id": "JOB-ML-001", "applied_date": "2025-11-27", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1192-JOB-ML-002", "candidate_id": "CAND-1192", "job_id": "JOB-ML-002", "applied_date": "2025-12-16", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1193-JOB-GENAI-002", "candidate_id": "CAND-1193", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-19", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1193-JOB-BE-002", "candidate_id": "CAND-1193", "job_id": "JOB-BE-002", "applied_date": "2025-11-28", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1194-JOB-ML-001", "candidate_id": "CAND-1194", "job_id": "JOB-ML-001", "applied_date": "2025-12-18", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1194-JOB-DA-001", "candidate_id": "CAND-1194", "job_id": "JOB-DA-001", "applied_date": "2025-10-26", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1194-JOB-ML-002", "candidate_id": "CAND-1194", "job_id": "JOB-ML-002", "applied_date": "2025-12-11", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1194-JOB-FE-001", "candidate_id": "CAND-1194", "job_id": "JOB-FE-001", "applied_date": "2026-02-10", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1195-JOB-ML-001", "candidate_id": "CAND-1195", "job_id": "JOB-ML-001", "applied_date": "2026-01-26", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1195-JOB-GENAI-002", "candidate_id": "CAND-1195", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-30", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1195-JOB-DA-002", "candidate_id": "CAND-1195", "job_id": "JOB-DA-002", "applied_date": "2025-11-17", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1195-JOB-GENAI-001", "candidate_id": "CAND-1195", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-18", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1196-JOB-BE-001", "candidate_id": "CAND-1196", "job_id": "JOB-BE-001", "applied_date": "2025-10-13", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1196-JOB-GENAI-002", "candidate_id": "CAND-1196", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-20", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1196-JOB-ML-001", "candidate_id": "CAND-1196", "job_id": "JOB-ML-001", "applied_date": "2026-02-05", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1196-JOB-GENAI-001", "candidate_id": "CAND-1196", "job_id": "JOB-GENAI-001", "applied_date": "2026-02-07", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1196-JOB-BE-002", "candidate_id": "CAND-1196", "job_id": "JOB-BE-002", "applied_date": "2025-12-22", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1197-JOB-GENAI-002", "candidate_id": "CAND-1197", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-20", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1197-JOB-GENAI-001", "candidate_id": "CAND-1197", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-26", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1198-JOB-ML-001", "candidate_id": "CAND-1198", "job_id": "JOB-ML-001", "applied_date": "2025-11-14", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1198-JOB-FE-002", "candidate_id": "CAND-1198", "job_id": "JOB-FE-002", "applied_date": "2025-11-26", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1198-JOB-DA-001", "candidate_id": "CAND-1198", "job_id": "JOB-DA-001", "applied_date": "2025-12-12", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1198-JOB-ML-002", "candidate_id": "CAND-1198", "job_id": "JOB-ML-002", "applied_date": "2025-11-14", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1199-JOB-BE-001", "candidate_id": "CAND-1199", "job_id": "JOB-BE-001", "applied_date": "2025-10-31", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1199-JOB-ML-001", "candidate_id": "CAND-1199", "job_id": "JOB-ML-001", "applied_date": "2025-11-15", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1199-JOB-FE-002", "candidate_id": "CAND-1199", "job_id": "JOB-FE-002", "applied_date": "2025-12-02", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1199-JOB-FE-001", "candidate_id": "CAND-1199", "job_id": "JOB-FE-001", "applied_date": "2025-10-31", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1199-JOB-BE-002", "candidate_id": "CAND-1199", "job_id": "JOB-BE-002", "applied_date": "2025-12-06", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1200-JOB-ML-001", "candidate_id": "CAND-1200", "job_id": "JOB-ML-001", "applied_date": "2026-02-10", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1200-JOB-DA-002", "candidate_id": "CAND-1200", "job_id": "JOB-DA-002", "applied_date": "2025-10-30", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1200-JOB-ML-002", "candidate_id": "CAND-1200", "job_id": "JOB-ML-002", "applied_date": "2025-12-14", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1201-JOB-FE-002", "candidate_id": "CAND-1201", "job_id": "JOB-FE-002", "applied_date": "2025-11-26", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1201-JOB-ML-002", "candidate_id": "CAND-1201", "job_id": "JOB-ML-002", "applied_date": "2025-12-17", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1201-JOB-FE-001", "candidate_id": "CAND-1201", "job_id": "JOB-FE-001", "applied_date": "2026-01-26", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1202-JOB-FE-002", "candidate_id": "CAND-1202", "job_id": "JOB-FE-002", "applied_date": "2025-11-05", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1203-JOB-ML-002", "candidate_id": "CAND-1203", "job_id": "JOB-ML-002", "applied_date": "2026-01-28", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1204-JOB-FE-002", "candidate_id": "CAND-1204", "job_id": "JOB-FE-002", "applied_date": "2025-11-23", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1204-JOB-DA-002", "candidate_id": "CAND-1204", "job_id": "JOB-DA-002", "applied_date": "2025-12-17", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1204-JOB-FE-001", "candidate_id": "CAND-1204", "job_id": "JOB-FE-001", "applied_date": "2026-01-13", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1205-JOB-DA-002", "candidate_id": "CAND-1205", "job_id": "JOB-DA-002", "applied_date": "2025-11-29", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1205-JOB-DA-001", "candidate_id": "CAND-1205", "job_id": "JOB-DA-001", "applied_date": "2025-10-30", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1205-JOB-GENAI-002", "candidate_id": "CAND-1205", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-29", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1205-JOB-ML-001", "candidate_id": "CAND-1205", "job_id": "JOB-ML-001", "applied_date": "2026-01-13", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1205-JOB-GENAI-001", "candidate_id": "CAND-1205", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-24", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1206-JOB-GENAI-002", "candidate_id": "CAND-1206", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-17", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1206-JOB-GENAI-001", "candidate_id": "CAND-1206", "job_id": "JOB-GENAI-001", "applied_date": "2025-11-28", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1207-JOB-FE-002", "candidate_id": "CAND-1207", "job_id": "JOB-FE-002", "applied_date": "2025-12-17", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1207-JOB-DA-001", "candidate_id": "CAND-1207", "job_id": "JOB-DA-001", "applied_date": "2026-01-12", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1207-JOB-DA-002", "candidate_id": "CAND-1207", "job_id": "JOB-DA-002", "applied_date": "2025-10-17", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1207-JOB-GENAI-001", "candidate_id": "CAND-1207", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-21", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1208-JOB-DA-002", "candidate_id": "CAND-1208", "job_id": "JOB-DA-002", "applied_date": "2025-10-29", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1208-JOB-ML-001", "candidate_id": "CAND-1208", "job_id": "JOB-ML-001", "applied_date": "2025-12-08", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1208-JOB-FE-002", "candidate_id": "CAND-1208", "job_id": "JOB-FE-002", "applied_date": "2026-01-24", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1208-JOB-BE-002", "candidate_id": "CAND-1208", "job_id": "JOB-BE-002", "applied_date": "2025-12-12", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1208-JOB-FE-001", "candidate_id": "CAND-1208", "job_id": "JOB-FE-001", "applied_date": "2026-01-11", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1209-JOB-DA-002", "candidate_id": "CAND-1209", "job_id": "JOB-DA-002", "applied_date": "2025-12-27", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1209-JOB-DA-001", "candidate_id": "CAND-1209", "job_id": "JOB-DA-001", "applied_date": "2025-11-11", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1209-JOB-ML-001", "candidate_id": "CAND-1209", "job_id": "JOB-ML-001", "applied_date": "2025-12-05", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1209-JOB-BE-002", "candidate_id": "CAND-1209", "job_id": "JOB-BE-002", "applied_date": "2025-12-08", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1209-JOB-ML-002", "candidate_id": "CAND-1209", "job_id": "JOB-ML-002", "applied_date": "2025-10-30", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1210-JOB-DA-002", "candidate_id": "CAND-1210", "job_id": "JOB-DA-002", "applied_date": "2025-10-26", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1211-JOB-DA-002", "candidate_id": "CAND-1211", "job_id": "JOB-DA-002", "applied_date": "2026-01-25", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1211-JOB-DA-001", "candidate_id": "CAND-1211", "job_id": "JOB-DA-001", "applied_date": "2026-01-10", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1211-JOB-GENAI-002", "candidate_id": "CAND-1211", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-04", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1211-JOB-FE-001", "candidate_id": "CAND-1211", "job_id": "JOB-FE-001", "applied_date": "2025-12-28", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1211-JOB-ML-002", "candidate_id": "CAND-1211", "job_id": "JOB-ML-002", "applied_date": "2025-10-20", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1212-JOB-DA-002", "candidate_id": "CAND-1212", "job_id": "JOB-DA-002", "applied_date": "2025-11-17", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1212-JOB-DA-001", "candidate_id": "CAND-1212", "job_id": "JOB-DA-001", "applied_date": "2025-12-08", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1212-JOB-ML-001", "candidate_id": "CAND-1212", "job_id": "JOB-ML-001", "applied_date": "2025-10-14", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1212-JOB-FE-002", "candidate_id": "CAND-1212", "job_id": "JOB-FE-002", "applied_date": "2025-11-18", "source": "Recruiter", "stage": "interview"}
+{"application_id": "APP-CAND-1212-JOB-ML-002", "candidate_id": "CAND-1212", "job_id": "JOB-ML-002", "applied_date": "2026-01-23", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1213-JOB-DA-002", "candidate_id": "CAND-1213", "job_id": "JOB-DA-002", "applied_date": "2026-01-06", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1214-JOB-GENAI-001", "candidate_id": "CAND-1214", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-03", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1215-JOB-ML-001", "candidate_id": "CAND-1215", "job_id": "JOB-ML-001", "applied_date": "2025-12-18", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1215-JOB-GENAI-002", "candidate_id": "CAND-1215", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-09", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1216-JOB-BE-001", "candidate_id": "CAND-1216", "job_id": "JOB-BE-001", "applied_date": "2025-10-24", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1217-JOB-FE-002", "candidate_id": "CAND-1217", "job_id": "JOB-FE-002", "applied_date": "2025-11-24", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1217-JOB-GENAI-002", "candidate_id": "CAND-1217", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-08", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1217-JOB-ML-002", "candidate_id": "CAND-1217", "job_id": "JOB-ML-002", "applied_date": "2025-12-02", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1217-JOB-FE-001", "candidate_id": "CAND-1217", "job_id": "JOB-FE-001", "applied_date": "2025-12-05", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1218-JOB-DA-002", "candidate_id": "CAND-1218", "job_id": "JOB-DA-002", "applied_date": "2025-12-08", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1218-JOB-BE-001", "candidate_id": "CAND-1218", "job_id": "JOB-BE-001", "applied_date": "2025-11-07", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1218-JOB-DA-001", "candidate_id": "CAND-1218", "job_id": "JOB-DA-001", "applied_date": "2025-11-30", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1218-JOB-BE-002", "candidate_id": "CAND-1218", "job_id": "JOB-BE-002", "applied_date": "2026-01-31", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1218-JOB-FE-001", "candidate_id": "CAND-1218", "job_id": "JOB-FE-001", "applied_date": "2025-11-23", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1219-JOB-ML-001", "candidate_id": "CAND-1219", "job_id": "JOB-ML-001", "applied_date": "2025-10-13", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1219-JOB-GENAI-002", "candidate_id": "CAND-1219", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-02", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1219-JOB-ML-002", "candidate_id": "CAND-1219", "job_id": "JOB-ML-002", "applied_date": "2025-10-21", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1220-JOB-DA-001", "candidate_id": "CAND-1220", "job_id": "JOB-DA-001", "applied_date": "2026-02-05", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1220-JOB-ML-001", "candidate_id": "CAND-1220", "job_id": "JOB-ML-001", "applied_date": "2025-10-28", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1220-JOB-FE-002", "candidate_id": "CAND-1220", "job_id": "JOB-FE-002", "applied_date": "2025-10-19", "source": "Recruiter", "stage": "offer"}
+{"application_id": "APP-CAND-1220-JOB-GENAI-001", "candidate_id": "CAND-1220", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-28", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1220-JOB-FE-001", "candidate_id": "CAND-1220", "job_id": "JOB-FE-001", "applied_date": "2026-01-04", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1221-JOB-DA-002", "candidate_id": "CAND-1221", "job_id": "JOB-DA-002", "applied_date": "2026-01-24", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1222-JOB-DA-002", "candidate_id": "CAND-1222", "job_id": "JOB-DA-002", "applied_date": "2025-10-19", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1222-JOB-BE-001", "candidate_id": "CAND-1222", "job_id": "JOB-BE-001", "applied_date": "2025-12-26", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1222-JOB-DA-001", "candidate_id": "CAND-1222", "job_id": "JOB-DA-001", "applied_date": "2026-01-17", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1222-JOB-GENAI-002", "candidate_id": "CAND-1222", "job_id": "JOB-GENAI-002", "applied_date": "2026-02-04", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1222-JOB-FE-001", "candidate_id": "CAND-1222", "job_id": "JOB-FE-001", "applied_date": "2025-12-23", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1223-JOB-DA-001", "candidate_id": "CAND-1223", "job_id": "JOB-DA-001", "applied_date": "2025-11-10", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1223-JOB-DA-002", "candidate_id": "CAND-1223", "job_id": "JOB-DA-002", "applied_date": "2026-02-06", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1223-JOB-BE-001", "candidate_id": "CAND-1223", "job_id": "JOB-BE-001", "applied_date": "2025-11-11", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1223-JOB-GENAI-002", "candidate_id": "CAND-1223", "job_id": "JOB-GENAI-002", "applied_date": "2025-12-25", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1224-JOB-ML-002", "candidate_id": "CAND-1224", "job_id": "JOB-ML-002", "applied_date": "2025-11-04", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1225-JOB-DA-001", "candidate_id": "CAND-1225", "job_id": "JOB-DA-001", "applied_date": "2025-12-05", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1225-JOB-DA-002", "candidate_id": "CAND-1225", "job_id": "JOB-DA-002", "applied_date": "2025-11-27", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1226-JOB-DA-001", "candidate_id": "CAND-1226", "job_id": "JOB-DA-001", "applied_date": "2025-12-14", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1226-JOB-GENAI-002", "candidate_id": "CAND-1226", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-04", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1227-JOB-DA-002", "candidate_id": "CAND-1227", "job_id": "JOB-DA-002", "applied_date": "2025-12-30", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1228-JOB-DA-002", "candidate_id": "CAND-1228", "job_id": "JOB-DA-002", "applied_date": "2025-12-04", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1228-JOB-BE-001", "candidate_id": "CAND-1228", "job_id": "JOB-BE-001", "applied_date": "2026-02-08", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1228-JOB-DA-001", "candidate_id": "CAND-1228", "job_id": "JOB-DA-001", "applied_date": "2025-11-04", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1228-JOB-FE-002", "candidate_id": "CAND-1228", "job_id": "JOB-FE-002", "applied_date": "2025-12-09", "source": "Indeed", "stage": "screen"}
+{"application_id": "APP-CAND-1228-JOB-FE-001", "candidate_id": "CAND-1228", "job_id": "JOB-FE-001", "applied_date": "2025-12-04", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1229-JOB-GENAI-001", "candidate_id": "CAND-1229", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-15", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1230-JOB-DA-001", "candidate_id": "CAND-1230", "job_id": "JOB-DA-001", "applied_date": "2026-01-29", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1230-JOB-GENAI-002", "candidate_id": "CAND-1230", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-20", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1230-JOB-GENAI-001", "candidate_id": "CAND-1230", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-19", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1231-JOB-DA-001", "candidate_id": "CAND-1231", "job_id": "JOB-DA-001", "applied_date": "2026-01-02", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1231-JOB-DA-002", "candidate_id": "CAND-1231", "job_id": "JOB-DA-002", "applied_date": "2025-11-21", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1232-JOB-DA-001", "candidate_id": "CAND-1232", "job_id": "JOB-DA-001", "applied_date": "2026-01-11", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1232-JOB-GENAI-001", "candidate_id": "CAND-1232", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-19", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1233-JOB-FE-002", "candidate_id": "CAND-1233", "job_id": "JOB-FE-002", "applied_date": "2025-10-31", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1233-JOB-GENAI-002", "candidate_id": "CAND-1233", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-21", "source": "Referral", "stage": "interview"}
+{"application_id": "APP-CAND-1233-JOB-GENAI-001", "candidate_id": "CAND-1233", "job_id": "JOB-GENAI-001", "applied_date": "2026-01-21", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1234-JOB-GENAI-002", "candidate_id": "CAND-1234", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-28", "source": "Indeed", "stage": "offer"}
+{"application_id": "APP-CAND-1234-JOB-DA-002", "candidate_id": "CAND-1234", "job_id": "JOB-DA-002", "applied_date": "2026-01-14", "source": "Referral", "stage": "screen"}
+{"application_id": "APP-CAND-1235-JOB-BE-001", "candidate_id": "CAND-1235", "job_id": "JOB-BE-001", "applied_date": "2026-01-01", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1235-JOB-DA-001", "candidate_id": "CAND-1235", "job_id": "JOB-DA-001", "applied_date": "2026-01-24", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1235-JOB-GENAI-001", "candidate_id": "CAND-1235", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-06", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1235-JOB-BE-002", "candidate_id": "CAND-1235", "job_id": "JOB-BE-002", "applied_date": "2025-11-27", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1235-JOB-ML-002", "candidate_id": "CAND-1235", "job_id": "JOB-ML-002", "applied_date": "2025-12-09", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1236-JOB-DA-001", "candidate_id": "CAND-1236", "job_id": "JOB-DA-001", "applied_date": "2026-01-04", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1236-JOB-DA-002", "candidate_id": "CAND-1236", "job_id": "JOB-DA-002", "applied_date": "2026-02-03", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1236-JOB-GENAI-002", "candidate_id": "CAND-1236", "job_id": "JOB-GENAI-002", "applied_date": "2025-11-13", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1237-JOB-DA-002", "candidate_id": "CAND-1237", "job_id": "JOB-DA-002", "applied_date": "2025-12-26", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1237-JOB-BE-002", "candidate_id": "CAND-1237", "job_id": "JOB-BE-002", "applied_date": "2026-01-02", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1238-JOB-ML-001", "candidate_id": "CAND-1238", "job_id": "JOB-ML-001", "applied_date": "2026-01-05", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1239-JOB-ML-001", "candidate_id": "CAND-1239", "job_id": "JOB-ML-001", "applied_date": "2025-10-14", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1240-JOB-GENAI-002", "candidate_id": "CAND-1240", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-02", "source": "Recruiter", "stage": "applied"}
+{"application_id": "APP-CAND-1240-JOB-DA-001", "candidate_id": "CAND-1240", "job_id": "JOB-DA-001", "applied_date": "2025-11-18", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1240-JOB-FE-002", "candidate_id": "CAND-1240", "job_id": "JOB-FE-002", "applied_date": "2025-11-08", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1240-JOB-BE-002", "candidate_id": "CAND-1240", "job_id": "JOB-BE-002", "applied_date": "2026-02-02", "source": "LinkedIn", "stage": "rejected"}
+{"application_id": "APP-CAND-1240-JOB-FE-001", "candidate_id": "CAND-1240", "job_id": "JOB-FE-001", "applied_date": "2026-02-10", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1241-JOB-DA-002", "candidate_id": "CAND-1241", "job_id": "JOB-DA-002", "applied_date": "2025-10-30", "source": "Company Site", "stage": "offer"}
+{"application_id": "APP-CAND-1242-JOB-DA-002", "candidate_id": "CAND-1242", "job_id": "JOB-DA-002", "applied_date": "2026-01-25", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1242-JOB-BE-001", "candidate_id": "CAND-1242", "job_id": "JOB-BE-001", "applied_date": "2026-01-10", "source": "LinkedIn", "stage": "applied"}
+{"application_id": "APP-CAND-1242-JOB-DA-001", "candidate_id": "CAND-1242", "job_id": "JOB-DA-001", "applied_date": "2025-11-15", "source": "Recruiter", "stage": "screen"}
+{"application_id": "APP-CAND-1242-JOB-ML-001", "candidate_id": "CAND-1242", "job_id": "JOB-ML-001", "applied_date": "2026-01-14", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1242-JOB-FE-001", "candidate_id": "CAND-1242", "job_id": "JOB-FE-001", "applied_date": "2025-11-29", "source": "LinkedIn", "stage": "screen"}
+{"application_id": "APP-CAND-1243-JOB-GENAI-001", "candidate_id": "CAND-1243", "job_id": "JOB-GENAI-001", "applied_date": "2025-12-20", "source": "LinkedIn", "stage": "interview"}
+{"application_id": "APP-CAND-1244-JOB-ML-001", "candidate_id": "CAND-1244", "job_id": "JOB-ML-001", "applied_date": "2025-10-22", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1244-JOB-ML-002", "candidate_id": "CAND-1244", "job_id": "JOB-ML-002", "applied_date": "2025-12-20", "source": "Recruiter", "stage": "rejected"}
+{"application_id": "APP-CAND-1245-JOB-ML-001", "candidate_id": "CAND-1245", "job_id": "JOB-ML-001", "applied_date": "2026-01-04", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1245-JOB-ML-002", "candidate_id": "CAND-1245", "job_id": "JOB-ML-002", "applied_date": "2026-01-27", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1245-JOB-BE-002", "candidate_id": "CAND-1245", "job_id": "JOB-BE-002", "applied_date": "2026-01-05", "source": "Company Site", "stage": "screen"}
+{"application_id": "APP-CAND-1246-JOB-ML-001", "candidate_id": "CAND-1246", "job_id": "JOB-ML-001", "applied_date": "2026-02-02", "source": "Indeed", "stage": "applied"}
+{"application_id": "APP-CAND-1246-JOB-DA-001", "candidate_id": "CAND-1246", "job_id": "JOB-DA-001", "applied_date": "2026-01-11", "source": "Company Site", "stage": "interview"}
+{"application_id": "APP-CAND-1246-JOB-DA-002", "candidate_id": "CAND-1246", "job_id": "JOB-DA-002", "applied_date": "2025-10-30", "source": "Referral", "stage": "rejected"}
+{"application_id": "APP-CAND-1246-JOB-ML-002", "candidate_id": "CAND-1246", "job_id": "JOB-ML-002", "applied_date": "2025-10-24", "source": "Indeed", "stage": "rejected"}
+{"application_id": "APP-CAND-1247-JOB-DA-002", "candidate_id": "CAND-1247", "job_id": "JOB-DA-002", "applied_date": "2025-12-04", "source": "Referral", "stage": "applied"}
+{"application_id": "APP-CAND-1247-JOB-BE-001", "candidate_id": "CAND-1247", "job_id": "JOB-BE-001", "applied_date": "2025-12-12", "source": "Company Site", "stage": "rejected"}
+{"application_id": "APP-CAND-1247-JOB-GENAI-002", "candidate_id": "CAND-1247", "job_id": "JOB-GENAI-002", "applied_date": "2026-01-20", "source": "LinkedIn", "stage": "offer"}
+{"application_id": "APP-CAND-1247-JOB-FE-002", "candidate_id": "CAND-1247", "job_id": "JOB-FE-002", "applied_date": "2025-10-29", "source": "Referral", "stage": "offer"}
+{"application_id": "APP-CAND-1247-JOB-GENAI-001", "candidate_id": "CAND-1247", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-20", "source": "Company Site", "stage": "applied"}
+{"application_id": "APP-CAND-1248-JOB-GENAI-001", "candidate_id": "CAND-1248", "job_id": "JOB-GENAI-001", "applied_date": "2025-10-15", "source": "Indeed", "stage": "interview"}
+{"application_id": "APP-CAND-1249-JOB-BE-002", "candidate_id": "CAND-1249", "job_id": "JOB-BE-002", "applied_date": "2025-11-13", "source": "Company Site", "stage": "interview"}

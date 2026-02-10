@@ -1,0 +1,127 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>WFM Candidate Matcher</title>
+    <style>
+      body { font-family: system-ui, Arial, sans-serif; margin: 24px; max-width: 1000px; }
+      .row { display: flex; gap: 16px; }
+      textarea { width: 100%; height: 140px; }
+      input, select, button, textarea { padding: 10px; font-size: 14px; }
+      button { cursor: pointer; }
+      .card { border: 1px solid #ddd; border-radius: 10px; padding: 14px; margin: 12px 0; }
+      .muted { color: #666; }
+      .pill { display: inline-block; padding: 2px 8px; border: 1px solid #ddd; border-radius: 999px; margin-right: 6px; font-size: 12px; }
+      pre { background: #fafafa; border: 1px solid #eee; padding: 10px; overflow: auto; }
+    </style>
+  </head>
+  <body>
+    <h2>WFM Candidate Matcher</h2>
+    <p class="muted">Hybrid retrieval (TF-IDF + vector) + LLM scoring with evidence.</p>
+
+    <div class="card">
+      <h3>Match</h3>
+      <div class="row">
+        <div style="flex:1">
+          <label>Job ID (optional)</label><br/>
+          <input id="job_id" placeholder="e.g., JOB-GENAI-001" style="width:100%" />
+          <p class="muted">If Job ID is empty, paste a JD below.</p>
+        </div>
+        <div style="flex:1">
+          <label>Top K</label><br/>
+          <input id="top_k" type="number" value="10" style="width:120px" />
+          <label style="margin-left:12px;">Retrieve K</label>
+          <input id="retrieve_k" type="number" value="120" style="width:120px" />
+        </div>
+      </div>
+
+      <label>Job Description (optional)</label><br/>
+      <textarea id="jd" placeholder="Paste job description here if not using job_id..."></textarea>
+
+      <div class="row">
+        <div style="flex:1">
+          <label>Filter: Location</label><br/>
+          <input id="filter_location" placeholder="Remote, Dallas, Austin..." style="width:100%" />
+        </div>
+        <div style="flex:1">
+          <label>Filter: Min years</label><br/>
+          <input id="filter_years" type="number" placeholder="e.g., 3" style="width:140px" />
+        </div>
+      </div>
+
+      <button id="btnMatch">Find best candidates</button>
+    </div>
+
+    <div id="results"></div>
+
+    <script>
+      async function postJSON(url, payload) {
+        const res = await fetch(url, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload)
+        });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data?.detail || "Request failed");
+        return data;
+      }
+
+      function escapeHtml(s) {
+        return (s || "").replaceAll("&","&amp;").replaceAll("<","&lt;").replaceAll(">","&gt;");
+      }
+
+      function renderResults(data) {
+        const el = document.getElementById("results");
+        el.innerHTML = "";
+        if (!data.results || data.results.length === 0) {
+          el.innerHTML = "<p class='muted'>No results. Try removing filters or increasing retrieve_k.</p>";
+          return;
+        }
+        for (const r of data.results) {
+          const citations = (r.citations || []).map(c => `
+            <div class="muted"><span class="pill">${escapeHtml(c.chunk_id)}</span> ${escapeHtml(c.excerpt)}</div>
+          `).join("");
+          el.innerHTML += `
+            <div class="card">
+              <div><b>${escapeHtml(r.name || r.candidate_id)}</b> <span class="pill">${r.candidate_id}</span> <span class="pill">Score ${r.overall_score}</span></div>
+              <div style="margin-top:8px;">
+                <div><b>Must-have hits:</b> ${(r.must_have_hits||[]).map(x=>`<span class="pill">${escapeHtml(x)}</span>`).join("")}</div>
+                <div><b>Missing:</b> ${(r.missing_must_haves||[]).map(x=>`<span class="pill">${escapeHtml(x)}</span>`).join("")}</div>
+              </div>
+              <div style="margin-top:8px;">
+                <b>Highlights</b>
+                <ul>${(r.highlights||[]).map(x=>`<li>${escapeHtml(x)}</li>`).join("")}</ul>
+                <b>Risks</b>
+                <ul>${(r.risks||[]).map(x=>`<li>${escapeHtml(x)}</li>`).join("")}</ul>
+              </div>
+              <div style="margin-top:8px;">
+                <b>Evidence</b>
+                ${citations || "<div class='muted'>No citations returned.</div>"}
+              </div>
+            </div>
+          `;
+        }
+      }
+
+      document.getElementById("btnMatch").addEventListener("click", async () => {
+        const job_id = document.getElementById("job_id").value.trim() || null;
+        const job_description = document.getElementById("jd").value.trim() || null;
+        const top_k = parseInt(document.getElementById("top_k").value || "10", 10);
+        const retrieve_k = parseInt(document.getElementById("retrieve_k").value || "120", 10);
+        const location = document.getElementById("filter_location").value.trim() || null;
+        const min_years = document.getElementById("filter_years").value.trim();
+        const filters = {
+          location: location,
+          min_years_experience: min_years ? parseInt(min_years, 10) : null
+        };
+
+        try {
+          const data = await postJSON("/match", { job_id, job_description, top_k, retrieve_k, filters });
+          renderResults(data);
+        } catch (e) {
+          alert(e.message);
+        }
+      });
+    </script>
+  </body>
+</html>
