@@ -21,14 +21,3 @@ storage/
 .DS_Store
 Thumbs.db
 
-# Virtual env
-.venv/
-venv/
-
-# Secrets
-.env
-
-# Generated / local data
-storage/
-*.parquet
-*.joblib
